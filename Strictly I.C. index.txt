@@ -1,0 +1,1562 @@
+Strictly IC Index
+Version 1.0 08/21/02
+
+Compiled by Corey T. Renner
+
+Based on scanning and OCR work done by Martin F. Slater
+
+Please send corrections to corey94945@yahoo.com
+
+
+ Index Vol. 1, Nos 1 through 6
+ Index Vol. 2, Nos 7 through 12
+ Index Vol. 3, Nos 13 through 18
+ Index Vol. 4, Nos 19 through 24
+ Index Vol. 5, Nos 25 through 30
+ Index Vol. 6, Nos 31 through 36
+ Index Vol.7, Nos 37 through 42
+ Index Vol. 8, Nos 43 through 48
+ Index Vol. 9, Nos 49 through 54
+ Index Vol. 10, Nos 55 through 60
+ Index Vol. 11, Nos 61 through 66
+ Index Vol. 12, Nos 67 through 72
+ Index Vol. 13, Nos 74 through 78
+ Index Vol. 14, Nos 79 through 84
+
+AA
+Abell, Bruce, Finishing Piston Rings 19-26
+Achen, Don; 47-34
+Addresses, subscribers (Australia & England): 5-18
+Ads, Subscriber's Section: 13-23; 14-31; 15-31; 16-31; 17-31; 18-31
+Aero.94, The 3-3.
+Air Board - Technical Notes, 61-12
+Air Cleaner, A Simple, by Dr. Bob Kradjian, 68-31
+Aldrich, George M.: 6-8, 7-18
+Alewijn, Martin: 78-22; 79-9; 80-3; 81-11; 82-11
+Allen, Bob, 65-30
+Alumina tube: 13-9
+Aluminum Characteristics, 45-27
+AMERICAN NATIONAL STANDARD INSTITUTE (ANSI) Number and Letter Drill Chart: 14-27
+Anderson, Fred, 45-28
+Andersson, Jan-Olof, What in the World's New? A Unique Cam Drive 22-5
+Angle plate, Sherline, 72-29
+Angles, Calculating, by Tony Phillips 54-28
+Anodizing aluminum parts: 4-3
+Answers Paul Chernikeeff 40-33
+Anzani W-type Engine The No.81-3, No. 82-13, No.83-33, No.84-11
+Aquila, 9-cyl, Sleeve-valve Engine, A Progress Report 1/4-scale, by Perkins: 61-26; 70-33; 72-30
+Armchair Machinist, A ‘Glower'-A Mains Power Unit Lighting Glow Plugs, 76-5
+Armchair Machinist, DraftChoice, 71-32; 72-11
+Armchair Machinist, Internally Toothed Gears, 75-7
+Armchair Machinist, Matters Arising, 78-23
+Armchair Machinist, Opposed-piston engines: 73-15; 77-28
+Armchair Machinist, Some Unrelated Odds & Ends, 74-9
+Armchair Machinist, The Humble Bee, construction article: 68-15; 69-8; 70-7
+Armer, Rollin 56-9
+ARMER, Rollin, Observations on the Commercial Design Practice of Master Rod/Knuckle Pin Geometry
+of Radial Engines 28-3
+ASPIN ROTARY VALVE ENGINE, Building an, by Richard Condon: 30-5; 31-8, 32-8
+ Atkinson Cycle, Farm-type Engine, The, By J.M. Tochtrop 52-35
+ Australia and Australians, By Robert A. Washburn: 47-26
+ Auto Engine Design, Direct Quote 40-5
+ Automobile Engineer's Reference Book 40-34
+ Back plate, pattern, original Ohlsson: 8-26
+ Balancing a Radial Engine By Allan Fillery: 52-31
+Balancing a Radial Engine By J.D. Schmidt: 60-8
+ Balancing your crankshaft: 11-14
+ Balancing, Basic 41-7
+Balancing, Miniature Engine 56-28
+Balancing, SOMETHING TO THINK ABOUT: Basic 41-7
+ Balancing, The Whys & How of Miniature Engine, By Randall Cox 56-28
+ Ball Bearings, Metric, by T.H. Miller 58-4
+ Ballizing, 10-2; 10-20 (-2 prolly wrong)
+ Barker, Kevin, Fixture for Finding TDC of Pistons 31-38
+ Barker, Kevin, Turning Crankshaft Throws on Crankshafts: 31-38
+ Barr & Stroud (engine), Building the 11.4 cc, 1/3rd-scale: 83-3; 84-37; No.84-7 (check)
+ Barrington Hares, From the Typewriter of 53-3
+ Bartlett ,Richard & his COMPUCUT, 72-12
+ Bartlett, Richard: 72-12; 75-12; 76-8
+ Baxter, Gerald R. Spring Winding Mandrel Construction Article 34-5
+ BB
+ Beckett, Harold O: 45-3; 59-3
+ Beckman, Rev. Donald: front cover 7
+ Beginner's Guide, 74-34
+ Beginner's Tale, A, by Derek Stollery 35-5
+ Bell, Don A, Spring Winding, The Third Variable - Wire Tension 34-6
+ Bell, Don A. 41-28
+ Bell, Don A. Lathe Center Holes 33-36
+ Bending thin-wall tubing using internal support, 11-9
+Bendure, Dennis Scott 58-28
+ Bennett, Paul, 68-3; 68-29
+ Bentley BR2, Building the, in book form: 1-5.
+ Bentley BR2, Magnetos for: 77-9; 78-9 (1-2)
+Bentley BR2: 1-5,20; 2-20; 56-10
+Beshears, Scott 58-27
+ Bit of Engine Wisdom, A, Pilgrim's Progress 49-27
+ Bits & Pieces, How to make a GHQ Run, 76-9
+ Bittner, Ed, 77-5; 78-6
+ Black, David: 45-31
+ Blackening steel at room temperature, Cold: 9-17
+ Bodmer, John A.: 46-33
+ Bond, William The Saga of the Viper Twins 52-10
+ Bond, William, 47-12
+ Book Review Model Jet Engines by Thomas Kamps By Bryan J. Seegers 49-37
+ Book Review, 7 Easy Steps to CNC Programming, a
+ Book Review, Air Board - Technical Notes, by Robert A. Washburn: 61-12
+ Book Review, Sparks and Flames, 67-13
+Book Review: Bentley BR2, WWI Rotary Aero Engine 56-10
+ Book Review: Gas Turbine Engines for Model Aircraft - The F 3/64, By Kurt Schreckling, Review by RAW;
+ 44-27
+ Book Review: Leonard Woods Strahlturbine für Flugmodelle im Selbstbau (Self-built Turbojets for Model
+ Aircraft)
+ Book Review:: The Machinist's Third Bedside Reader, Jim Schiller reviewer 37-10
+ Book Reviews A History of Aircraft Piston Engines Model Glow Plug Engines 33-35
+ Book: Bentley BR2 1-5 & 20; 2-20.
+ Boote, D, 16-21 Layout of Crankshaft
+ Boote, David 42-32; 43-32; 44-9
+ Boring Small Holes, Line by Philip Coleman, 68-32
+ Boring, line bore small holes, 68-12
+Bosher, Alan J. Breaker Points The Inexpensive Way 34-34
+Bosher, Alan J: 45-11
+Boswell, Bob, 73-5
+Bottle Engine, Building the, Bill Reichart: 60-29; 61-13; 62-5
+Boulter, Barrie, Tapping Small Holes - TIP SHEET 28-7
+Bowes, David No.80-8, No.82-9, No.83-7, No 84-3
+BP 75, Notes on the Construction of a 75cc Flat Four, The ,By Brian Perkins 51-3
+Brazed Carbide Cutting Tools 42-16
+Breaker Points By Jim Moyer 58-33
+Britnell, George D Instructions for Building a Miniature Vertical Engine 33-4
+Brockelsby, Norm 58-29
+Bruce, Charles A., Drive Washer-Tip Sheet 16-21
+Butters, Andrew No.83-36
+Calculating Angles by Tony Phillips 28
+Cam Cat: 76-28
+Cam design for four-stroke cycle engines other than radials, Roderick Jenkins: 18-3
+CAM DESIGN, MASTER By Don A. Bell 41-28
+Cam drive, A Unique, Jan-Olof Andersson: 22-5
+Cam filing fixture, A, Pieter Dekker: 17-7
+Cam grinder, Cam Cat, 76-28
+CAM GRINDING FIXTURE: By Gene Switzer: 39-3; 40-10; 41-10
+Cam grinding, 1-9.
+Cam Lobes, Positioning Individual for a Four- cylinder Engine, by Heinz Kornmüller Tip Sheet 54-34
+Cam ring design, radial engine: 9-14
+Cam rings for radials, Richard E. Kelsey: 17-29
+Cam-axial 60 2s engine, construction series Brayton B. Paul: 22-25; 23-26
+Cam-axial 60 and 150-1, 10-5
+Camshaft for the Wall C-602 Engine, Machining a, by David J. Clymer; 46-5
+Camshaft grinding machine: 6-12
+Camshaft Production, Kinner: 74-35
+Camshaft the Easy Way, How to Produce a, by Gordon French 32-6
+Camshaft, for the Wall C-602 Engine: 46-5
+Camshafts are not beyond your ability, by Paul Bennett: 68-3
+Can anyone help?: 6-7
+Carburetion: 8-23
+Carburetor Construction, Simplex Engine, by Eric Johansen: 46-3; 47-14
+Carburetor, A General Design: 45-10
+Carburetor, A Simple Compensating: 55-11
+Carburetor, A Stromberg in Miniature, by Lee Root/Washburn: 31-3; 32-3; 33-3
+carburetor, A two jet, throttle, by Jerry Howell, 69-32
+Carburetor, Useful Direct Quotes: 64-29
+Carlsson, Carl Eric, The Miniature Wright J5 Engine Construction series 24-9
+Carter, Edward, 47-12
+Carter, Floyd E. A Practical Guide to Nickel-Cadmium Cells and Batteries 53-34
+Carter, Floyd E., Model Ignition Systems 21-3
+Carter, Floyd E.: 55-30; 58-8; 67-9; 71-15
+Carter, Floyd Spark Ignition Conversion Using Hall-effect Components 36-35
+Carter, Floyd, Fine Tuning the Spark Ignition System 27-28
+Casting forms, 75-9
+Casting kits, 4-24.
+Casting Molds; Permanent Steel Vacuum 43-11
+casting, Investment lost wax, by Bruce B. Satra - Pilgrim's Progress: 16-25; 17-23
+Casting, Permanent Mold Pressure By Bruce B. Satra 42-11
+Castings for the Simplex, 46-5
+CC
+Center Drills, removal of broken, 67-11
+Center finding in a 4-jaw chuck, by Ed Stuck - TIP SHEET 26-7
+Center finding in the four-jaw chuck, Bob Paule P.E.-In The Shop 15-5
+Centerfold: 2-10; 5-10.
+Centering 3 jaw Chuck, A By Edward W. Degear 57-10
+Centers, Female, In The Shop By Bob Paule PE CFPE 54-10
+Chaddock, Prof. Dennis H.: 1-12; 2-6; 2-7; 4-11; 8-16; 48-12
+Challenger V8, The By Paul Knapp 56-5
+Charlwood, Allan R. Setting Over Single-Journal, Overhung Crankshafts 36-12
+Chenery Gnome rotary engine, The 6 cover.
+Chenery, Les: 2-20; 4-7; 6 cover; 73-8
+Chernich, Ron: 70-9
+Chernikeef, Paul: 74-12
+Chevy V8, 1/3rd-scale, 76-16; 77-25
+Chrome plating in ten easy steps, The Way to, by E.D. Cox: 22-3; 23-3; 24-3; 26-3
+Chuck Maintenance, Lathe: 59-24
+Chuck, A Centering Three jaw 57-10
+Chuck, Pot 45-26
+Chuck, The 4 jaw Self-centering Lathe By John Samphier; 43-9
+Chucks, 3 jaw: 68-34
+Cirrus Mk.1, De Havilland, 1/6th-scale Whittle, P.E.L.49-3, 50-30, 51-15, 52-25, 53-7
+Cirrus, 1/6th-scale, Split Main Bearing for, by Bob Allen, 65-30
+CIutch Assembly ,A Starter, by Edward F. Ellison 28
+Cleverness pays off handsomely, 4-11.
+Clifford Radial Engine, The by T.M. Miller, 67-14
+Clutch, A Centrifugal, For Miniature Engines: 36-6
+clutch, Pete's Over center, 3-9.
+Clutton, Eric, A Simple Spotfacer for Al. Castings 19-24
+Clymer, David J.; 46-5
+CNC at Home column, Adjunct to, by Robert L. Pegg, 70-26
+CNC at Home Series No.79-6, No.80-13, No.81-10
+CNC at Home, a series: BYO CNC, 73-17; Compucut CNC System: 75-12; 76-8
+ROBOPROBE: 77-5; 78-6
+CNC at Home, by Washburn, 69-12
+CNC at Home, Coleman, Philip, 68-32
+CNC at Home, Homebrew hardware aspects, by Ginger, 70-14
+CNC for Yourself No.79-6, No.80-13, No.81-10
+CNC in the home shop, 10-11
+CNC Programming, a Beginner's Guide, 7 easy steps to, Book Review, 74-34
+CNC System, Comp-u-cut by Richard Bartlett: 72-12, 75-12; 76-8
+CNC, A beginning, the basics of simple CNC at Home: 69-12; 70-11
+CNC, An introduction to CNC hardware, homebrew: 70-14; 72-12
+CNC, BYO:73-17
+CNC, Inc. Flashcut, CNC milling machine retrofit kit 67-31; 68-27
+CNC: 79-6; 80-13; 81-10
+Coholic, Andrew: 76-23
+Coil for hit-n-miss, A buzz by Ronald J. Colonna 20-8
+Coil for Slow-running I.C. Engines, An Electronic Buzz, by Floyd E. Carter: 71-15
+Coil winding fixture: 12-21
+Coil Winding Machine, Another, by Bob Shores 49-14
+Coil, an electronic buzz for slow-running I.C. engines: 71-15
+Coils, High-tension, by Robert A Hanna, Tip Sheet: 54-31
+Coleman, Philip: 68-32
+Collet Chuck, An Inexpensive 74-26
+Collet Chuck, An inexpensive: 74-26
+Collins, J.N.B. 40-9
+Colonna, Ron 3-8.
+Colonna, Ronald, A Buzz Coil for Hit-n-miss 20-8
+Colonna, Ronald: 1/4-scale DeHavilland Cirrus Mk1 Aero Engine Construction Series Part 1, 30-20
+Colonna, Ronald: 3-8; 45-27
+Combustion in Spark-ignition Engines By Pieter Dekker 56-12; 71-13
+Compatibility of Plastics and Elastomers with Diesel Fuel and Gasoline, By Edward Carter; 47-12
+Components, engine, 6-10.
+Compression Ignition Miniature Engines, some thoughts on, by Leonard Woods, 66-15
+Compression ratio, measuring, 8-9
+Compression Release Mechanisms Design Ideas, by Richard W. Condon: 53-11
+Compressor, Basic Operation of a Non-positive Displacement, by Bryan Seegers: 48-26
+Compressor, Non-positive Displacement, Basic Operation of: 48-26
+Comp-U-Cut, a CNC system for amateurs, Production Information, , by Leonard Woods, 70-11
+Computer Program, Connecting Rod Collision Checking Errata By David Pape 50-9
+Comstock, Dave -v-8 challenger, photo opp., 7-23
+Comstock, Don L. 4-22.
+Condon, Richard 3-13; 4-8; 5-13; 6-10.
+Condon, Richard W.(& Roy Moody), 20-5
+Hit-n-miss Engine Design Ideas, 21-8, 22-32, 23-7
+Condon, Richard W: 3-13; 4-8; 5-13; 6-10; 7-20; 8-23; 10-16; 11-14; 12-7; 37-7; 38-37; 40-31; 41-30; 44-
+14; 45-13; 46-3; 47-16; 48-11; 50-36; 52-32; 53-11
+Condon, Richard, (Design Ideas) 50-36, 52-32, 53-11
+Condon, Richard, (Design Ideas) A Centrifugal Clutch for Miniature Engines 36-6
+Condon, Richard, (Design Ideas) Building an Aspin Rotary Valve Engine Construction Series: 30-5 (1)
+Condon, Richard, (Design Ideas) Building an Electric Starter, 48-11
+Condon, Richard, (Design Ideas) Crankshaft Counterweight, 23-7
+Condon, Richard, (Design Ideas) Determination of Sound Levels, 25-5
+Condon, Richard, (Design Ideas) Determination of Sound Levels, 25-5
+Condon, Richard, (Design Ideas) Flywheel Inertia, 21-8
+Condon, Richard, (Design Ideas) Gear Train Calculations, 22-32
+Condon, Richard, (Design Ideas) Linear Combustion Engine, 26-10
+Condon, Richard, (Design Ideas) Lines Combustion Engine, 26-10
+Condon, Richard, (Design Ideas) Sizing Flywheels by Calculating Their Inertia, 29-27
+Condon, Richard, (Design Ideas) Sizing Flywheels by Calculating Their Inertia, 29-27
+Condon, Richard, (Design Ideas) Supercharge Your Two-stroke Engine 34-16
+Condon, Richard, (Design Ideas) The RC-22, Twin-cylinder In-line Engine:44-14; 45-13; 46-1; 47-16
+Condon, Richard, (Design Ideas) Tuning for Power, 27-26
+Condon, Richard, (Design Ideas) Tuning for Power, 27-26
+Condon, Richard, Build the Sirocco Fan, 18-24
+Condon, Richard, Cooling Your Engine, 15-22
+Condon, Richard,& Moody (Design Ideas) Building an Aspin Rotary Valve Engine: 30-5; 31-8; 32-8
+Connecting Rod Collision, 45-6
+Connecting rod design, 10-16
+Connecting rod, pattern, original Ohlsson, 10-16
+Contour Machining with a Spreadsheet, cutting mingled straight lines, arcs and circles with a mill, by Todd
+Spath; 47-3
+Contributors: 84-12
+Cooling & Lubrication System, by Colin Browning: 68-30
+Cooling your engine, Richard Condon 15-22
+Corl, Eugene: 75-9; 76-16; 77-25; 79-13
+Cornell, Robert C.; 46-26
+Corner rounding cutters, 7-16
+Cosmetics, 15-20 Rod Petree
+Counterweights, Crankshaft, Richard W. Condon - Design Ideas 23-7
+Cover photo: 5-cylinder radial, Dave Pape's, 7 New Holland, Rev. Donald Beckman's, 8 Wyvern, Russell
+Watson-Will's, 9 4-stroke single, Don Willson's, 10 4-cylinder opposed, Bud Frazier's, 11
+5-cylinder radial R-5, Bruce Satra, 12
+Cover photo:1 Pete Peterson's two cylinder in line; 2, Roger Paul's PA- 9, nine cylinder radial; 3, Bruce
+Satra's 0-440, four-cylinder flat opposed; 4, Dennis Fadden's Morton M-42 reproduction four-cylinder in
+line; 5, Olympus four-cylinder in line racing engine; 6 Les Chenery's nine-cylinder rotary engine.
+COX E.D., The way to Chrome Plating in Ten easy Steps Part 4 - conclusion 25-3
+Cox Space Hopper.049 conversion to side port induction, E.D. Cox, construction article 14-13
+Cox Sportsman 15, Conversion of a, 76-23
+Cox, E.D. :4-3.
+Cox, E.D. The Way to Chrome Plating in Ten Easy Steps: 22-3; 23-3; 24-3
+Cox, E.D., Cox Space Hopper.049 Conversion to Side Port Induction, Construction Article 14-13
+Cox, E.D.: 4-2; 55-8, 58-30
+Cox, Randall 56-28
+Crank pin, Turning a By Dan Goodwin 59-7
+Crankcase pattern, original Ohlsson, 8-26
+Crankcase Pressure? By Bob Shores 55-28
+Crankcase, Filling the, Two-stroke Engines By Derek Stollery 54-15
+Crankshaft balancing, Multi-cylinder, Notes on, Albert C. Hutton 16-3
+Crankshaft blanks, Another Way to Center, Tip Sheet Barry Emms 19-26
+Crankshaft counterweights, Richard W. Condon - Design Ideas 23-7
+Crankshaft Grinder, by Barry Dumaw: 63-9; 64-11; 65-9
+Crankshaft Grinding Machine, Ideas for building; 46-10
+Crankshaft Journals, Repair of, by Hamilton Upshur: 28-31; 26-31 (check)
+Crankshaft throws, Turning 31-38
+Crankshaft turning in a 3 jaw, 45-28
+Crankshaft turning tool, 6-15.
+Crankshaft, A Better Way; 45-30
+Crankshafts, An improved method of turning: 3-15
+Crankshafts, Layout of 10-9
+Crankshafts, Setting Over Single journal, Over-hung 36-12
+Croft, Ken, 3-12; 4-16; 4-18; 42-10 (check)
+Croft, Ken, Atom Minor Mk III, photo opp., 7-23
+Curved Surfaces, Cutting on the Lathe By Mike Early 52-3
+Cut-off Tool 32-38
+Cut-off Tool, A Better One; 45-29
+Cutting Curved Surfaces on the Lathe By Mike Early 52-3
+Cutting Gears on a Shaper By Leonard Woods 54-6
+Cutting Threads on a Lathe By Raymond T. Heckert 49-12
+Cutting Tools, Brazed Carbide 42-16
+Cylinder Block, A Fabricated, Bits & Pieces, by Hamilton Upshur: 49-13
+Cylinder Bolt Former by Lewis Throop 29
+Cylindrical Parts, Exact Finishing of by Rolf Depping 54-31
+D.C. Power supply, making a, 11-21
+Daniel, William: 4-6.
+DD
+Debolt, Paul & Bill, photo opp., 8-11
+Deezil Project, The DEEZIL ENGINE: 38-36; 39-10; 40-11; 41-32; 42-29;43-13
+Deezil, Progress Report 35-7
+Degear, Edward 57-10
+Dehavilland Cirrus Mk.1 Aero Engine, ¼ scale by Colonna: 30-20; 31-14; 32-12; 33-10; 34-12; 35-11;
+36-37
+DeHavilland Cirrus Mk.1, The 1/6th-scale by Eric Whittle 49-3, 50-30, 51-15, 52-25
+Dekker, Pieter Kinner K-5 Radial Engine Construction Series: 36-8 (1)
+Dekker, Pieter, A Cam Filing Fixture 17-7
+Dekker, Pieter: 37-26; 38-10; 39-31; 40-27; 56-12; 59-29; 68-25; 71-13; 83-3; 84-37
+Depping, Rolf, 46-10
+Depping, Rolf, 54-31 & 32
+Exact Finishing of Cylindrical Parts, Turning Oval Pistons, and Work Holder for Small Screws
+Depping, Rolf: 62-7; 68-30
+Design & Construction of the Chernikeeff PC 8.350, 74-12
+Design Forum No.79-28, No.80-26, No.81-28, No.82-6
+Design Forum, Totally Opposed, An introduction to a design forum using the opposed-piston, 2-stroke
+engine as a start, 78-3
+Design ideas, Engine Starting System 38-37
+Design ideas, Engine Vibration Isolation 37-7
+Die Casting, More about Procedures & Methods 32-30
+Die set, simple punch and, 4-17.
+Diesel Conversion Head for the Simple Single, Loftquist 55-27
+Diesel Conversion, Try a, by John Quigley 39-8
+Diesel Engine No.79-9, No.80-3, No.81-11, No.82-11
+Diesel Engine, An experimental miniature, 78-22
+Diesel fuel injection, Useful direct quotes 61-29
+Diesel Unit Fuel Injector By Dennis Scott Bendure 58-28
+Diesel, a simple 0.29 cu.in.; 68-15; 69-8; 70-7; 72-8
+Diesels, Bad-ass, 75-29
+Diffuser, impeller, 4-14.
+Digital Readout, Sherline, 67-25
+Distributor caps and rotors, Molded 1-5; 3-20; 6-24.
+Distributor caps, 1-20; 3-20; 6-24.
+Distributor Construction, 1911 Simplex; 48-14
+Double Dyno construction article, The by Ted Maciag: 71-4; 72-8; 73-13; errata 74-31
+Doyle, Mark; 45-28
+DraftChoice, 71-32
+drill chart, Partial Letter & number, 14-27
+Drill Press Tapping Tool, 73-9
+Drill Sizes, Tap, 47-30
+Drilling Attachment, A Sensitive, Small 37-11
+Drilling Attachment, A Sensitive, Small 37-11
+DRILLING E TAPPING small holes, Harmon Leslie - TIP SHEET 28-8
+Drills, Removing Broken; 45-31
+Dumaw, Barry 63-9, 64-11, 65-9
+Dunn, Robert; 45-10
+DUX, An Experimental Miniature Diesel Engine with High-pressure, Combustion-chamber: 78-22; 79-9;
+80-3; 81-11; 82-11
+Dwell angle, 6-21.
+Dynamometer, electric, 9-3
+Dynamometer; by Kirk/ Washburn: 62-3; 63-3; 64-25; 65-34; 66-33; 67-29; 69-30
+Dyno, Double (engine), 73-13
+Dynos, Desktop 56-33
+Eagle 22, A progress report, RR: 75-3, 81-7; 82-3
+Early, Mike: 50-3; 52-3; 64-6
+Early, Mike: A Model Turbojet Thermodynamic Design Point Cycle Program 50
+Early, Mike: Cutting Curved Surfaces on the Lathe 52
+Eaton, Robert (Bob), 64-30, 65-28
+EDM, Shop-made, Shop-size Electric Discharge Machine, by Robert A. Washburn: 34-3; 35,3; 36-3
+EE
+Eggleston, Bob; 45-30
+Eichinger, Alfred No.81.3, No.82-13, No 83-33
+Electric Discharge Machine EDM, A Shop- made, Shop-size 37-3, 38-3
+Electric Discharge Machine, By Robert A. Washburn: 50-14, 51-28, 53-6
+Electric Discharge Machine, By Robert A. Washburn: EDM, One more time 53
+Electric Discharge Machine, By Robert A. Washburn: The Mechanical Aspects 50
+Electric Discharge Machine, By Robert A. Washburn: The PC Board Aspects 51
+Electroforming, by Lewis Throop, 65-3
+Electronics, Home Machine Shop By Gordon L. And Rex Stanley 49-6, 50-10
+Elliot, Roy, John Deere tractor, photo opportunities, 7-22
+Ellis, Fred 3-20.
+Ellison, Bob; 45-29
+Ellison, Ed Still a Better Spark Plug 32-37
+Ellison, Edward F., A Starter Clutch Assembly 54-28
+Ellison, Edward F.: 62-32; 68-33
+Elmerina, A 7-cylinder radial, By Robert A. Washburn; 48-3
+Emms, Barry, Tip Sheet - Another Way to Center a Crankshaft Blank 19-26
+End Mill Flutes, Fixture for Grinding the Helix of By Ross Mathis 53-4
+Engine Awards Contest, Strictly I.C's, Model I.C.: 1993 33-32; 1994 34-30
+Engine builder in trouble, 3-12.
+Engine components, 6-10.
+Engine Construction, Geometric Errors In 42-32
+Engine Design Tips Column Piston & Rings Robert Host 32-38
+Engine from England, A new: 4-7
+Engine Lubrication, by Hamilton Upshur, 61-30, 62-9
+Engine Modeler's Club or Association, How to Organize an 74-3
+Engine operation, hit-n-miss, 6-9.
+Engine Revisited, A Model Farm Gasoline, by Hamilton Upshur: 77-3; 78-14; 79-11; 80-5
+ Engine Test Stand Calculates Thrust & HP, By John V. Thompson, 48-4
+ Engine tweaking, odds and ends about, 6-8.
+Engine Vibration Isolation 37-7
+ Engine Wisdom A Bit of 49
+ Engine, Antique farm gasoline, by Hamilton UpShur: 7; 8-13; 9-11; 10-13; 11-11 (check)
+ Engine, Electronic Valve: 82-9; 83-7; 84-3
+ Engine, Finishing Your By Randy Higgins 50-8
+ Engine, Linear Combustion, by Richard Condon - DESIGN IDEAS 26-10
+ Engine, Mystery No.80-10
+ Engines Gather ,Where Miniature No.79-12, No.80-30, No.81-31, No.84-33
+ Engines Gather, A trip report, Where Miniature, 73-29; 74-5; 76-14
+ Engines Gather, Where by Paul Knapp, 70-29; 71-3
+ Engines, World Encyclopaedia of Aero by J.N.B. Collin reviewer: 40-9
+ England, subscriber's addresses, 5-18.
+ ENGLAND's 81st MODEL ENGINEER EXHIBITION, Bob Paulo P.E. - IN THE SHOP 26-24
+ English to American In The Shop 52-12
+ Errata 1/4-scale Cirrus Mk.1 36-37
+ Errata Connecting Rod Collision Checking Computer Program By David Pape 50-9
+ Errata, 14-29
+ Errata, Double Dyno, 74-31
+ Errata, General Design of a Carburetor from Issue No. 45, 46-16; From Issue No. 46, Machining a
+ Camshaft for the Wall C-602, 47-32
+ Errata, Heinen Five cyl. sleeve, 19-30 (16 and 17)
+ Errata, Photo Caption, 21-12 (from 20 back cover)
+ Errata, Robin crankcase, 19-20 (from 18-16)
+ Errata, Springs, 20-23 (from 19-3)
+ Estevan Model Engineering Show, The Eleventh Annual by Kelly Tytlandsvik, 69-36
+ Estevan MODEL GAS 3 STEAM SHOW, Kelly Tytlandsvik 26-30
+ Estevan, Annual Model Show Announcement, Kelly Tytlandsvik 22-12
+ Etching of Dials and Nameplates, Dry Transfer, by E.D. Cox 55-8
+ Evans, Jim “Olds”, photo opportunities, 7-22
+ EVIC III Mk1, The: 82-9; 83-7; 84-3
+ Exact Finishing of Cylindrical Parts, Turning Oval Pistons, & Work Holder for Small Screws by Rolf
+ Depping 31 & 32
+ Excellence, Working Towards 59-23
+ Exhibiting, by Robert Washburn, 72-33; Sherline Angle Plate, 72-29
+ Fadden, Dennis, 4 cover.
+ Fairley, Bryan, Ram Diesels Mk I, Mk 11, Mk IV, photo opportunities, 7-22
+ Feeney, John R. 56-6
+ FF
+ File Maintenance 32-37
+ Fillery, Allan G. Balancing a Radial Engine 52-31
+ Finishing Your Engine By Randy Higgins 50-8
+ Fitchett, M.E. A Few More Ideas About making Miniature Spark Plugs 35-29
+ Five-C Collet Adapter By E.D. Cox 58-30
+ Fixture for Grinding the Helix of End Mill Flutes By Ross Mathis 53-4
+Fixture, A Keat's By Ken Croft 42-10
+Fixture, Cam Grinding 39-3
+ Fixture, piston turning, 6-3.
+ Fixture, Tapping, 73-10
+ FlashCUT CNC FR-5X00-000, Installing & using the 68-27;
+ Flashcut CNC retrofit kit, milling machine, Press Release, 67-31
+ Flat Four Notes on the Construction of a 75cc - The BP 75: 51-3
+ Flywheel and a Bit of Theory, An Inexpensive: 80-8
+ Flywheel Inertia Design Ideas 52-32
+ Flywheel inertia, Richard W. Condon - Design Ideas 21-8
+ FLYWHEELS, Sizing by Calculating Their Inertia, Richard Condon - DESIGN IDEAS 29-27
+ Ford, Bob No.80-12
+ Ford, Model A. Historical Notes & Specs. 56-9
+ Fordham, Ernest Midlands Model Engineering Exhibition 31-12
+ Fordham, Ernest; 48-13
+ Forged Valves No.83-36
+ Forgings, home shop, 4-11 & 12.
+ Former, Cylinder, by Lewis Throop 54-29
+ FORUM 01 Improvement to the 2-stroke engine By John Quigley 54-13
+ Forum 02, by John Quigley, 71-24
+ Foundry Series, Backyard No.79-13
+ Foundry Work, A Silica Sand/C02 Process, 74-7
+ Foundry Work, More On 31-32
+ Foundry, a series, Backyard, Construction of forma 75-9 & Another report in the series, 75-10; 1/3rd-scale
+ Chevy V8: 76-16; 77-25 (1-2)
+ Foundry, a series, Backyard, The Building of a Second Backyard Foundry, 78-24
+ Foundry, No.79-13
+ Four jaw, Self-centering Chuck; 43-9
+ Four-cylinder in line, 4 cover; 5 cover.
+ Four-cylinder, flat opposed, 3 cover.
+ Frazier, W.R. “Bud”, cover photo, 11
+ French, Gordon How to Produce a Camshaft the Easy Way 32-6
+ Friestad, Roland, 10-11
+ Frye, Oran, 73-4
+ Fuel Dynamics By Maurice Tyler 58-32
+ Fuel Injection, Why? 46-27
+ Fuel Tanks, Glass by Dave Schofield 54-33
+ Fuller & Johnson 1909 farm-type water pump engine, by Everett Rice: 20-21; 22-11; 23-11; 24-26; 25-5
+ Gages, Wire, Partial, 15-28
+ Garber, Michael D. 45-26
+Gas Engine Manual, quote torn 39-4
+ Gas Turbine ...Properties, Concepts and Definitions Useful Direct Quotes- Gas Turbine Engineering
+ Handbook 52-34.
+ Gas Turbine Engines for Model Aircraft, 44-27
+ Gaskets, spark plug, 5-8.
+ Gasoline engine, antique farm, 8-13, 9-11, 10-13, 11-11
+ Gear Backlash & Center Distance 56-11
+ Gear Cutting, A Simplified Approach to: 38-7; 39-5 (2-3)
+ Gear Pumps, Small 58-6
+ Gear Topics, Backlash; 46-31
+ Gear train calculations, Richard W. Condon - Design Ideas 22-32
+ Gears 34-32
+ Gears the easy way, Generating Gear Teeth and Gears Using A Hob, Making your own spur by F.E. Pat
+ Loop 40-3
+ Gears the Easy Way, Making Your Own 40-3
+ Gears Without Tears, by Karl Young, Jr., 69-11
+ Gears, Bevel 59-3
+ Gears, Cutting on a Shaper By Leonard Woods 54-6
+ Gears, Internally toothed, 75-7
+ Gears, Taking The Mystery Out Of 40-6
+GEARS, TAKING THE MYSTERY OUT OF UNDERSTANDING By Robert A Washburn 40-6
+ Gehringer, James K., 68-33
+ Generator, Constant current: 6-15.
+ Genevro, George, 1-20.
+ Geometric Errors in Engine Construction, By David Boote: 42-32; 43-32; 44-9
+ German Model Engineering Exhibition, First Annual, by Holger Menrad 32-4
+ GG
+ GHQ, How to make it run, 76-9
+ Ginger, Ron, 70-14
+ Glass Fuel Tanks & Indexing on a Lathe Chuck by Dave Schofield 54-33 & 34
+ Glow Ignition, The Peewit Engine 57-3, 58-3,59-10
+ Glow Motor, Lanz GLÜHKOPFMOTOR 39-7
+ Glow plug driver, Dariano Rossello 19-25
+ Glow Plugs Using a Homemade Percussion Welder, Making Mini, Micro, & Nano: by Rex & Gordon
+Stanley: 41-3; 42-3; 43-3; 44-3
+Glow Plugs, Making Mini, Micro, & Nano; 43-3; 44-3
+Glower, A mains power unit light glow plugs, 76-5
+glues, Super Bob Paule P.E.-In The Shop 14-18
+Good quality iron, 6-15.
+Goodwin, Dan 59-7
+Gore-TEX, PRODUCT EVALUATION: RT By George Trimble 39-9
+Gough, Frank, 73-4
+GOUGH, Frank, Radial Engine Master Rod & Slave Rod Link Angular Spacing 26-3
+Gough, Frank, vol.2-9
+Greasy & Oily Cleaning 34-33
+Grinder, Crankshaft, by Barry Dumaw: 63-9; 64-11; 65-9
+Grinding machine, cam, 6-12.
+Grinding, cam, 1-9.
+Gulke, Manfred, 68-34
+Gunston, Bill, 74-34
+HaIl-Effect Components, Spark Ignition Conversion Using 36-35
+Hand Finishing, The road to creating award winners, By Paul Knapp; 44-33
+Hand-held Grinder, 45-27
+Hanna, Robert A., High-tension Coils 54-31
+Hardening of Model Engine Components, Case, by Roger J. Schroeder - WINGED MOTORS 28-28
+Hardening of steels, Localized Case:68-36
+Hares, Barrington (Barry), From the typewriter of,:53-3;75-3; 81-7; 82-3
+Harty, Chuck, 74-35
+Havemann, Robert; 41-7, 42-6; 43-26; 44-31; 46-27
+Hayden, David S., 74-34
+Heat Treating Piston Rings, by Brian Winch, 71-29
+Heat-treating of steel, 2-15; 3-5.
+Heat-treatment of shop-made cutters, simple & easy, 9-15
+Heckert, Raymond T. Cutting Threads on a Lathe 49-12
+Heinen Five, The Jürgen Heinen -Construction Article: 16-13; 17-13
+Help, 6-7.
+HEXI and DIXIE, Leonard Woods 21-3
+HH
+Hickox, Tim, 64-3
+Higgins, Randy Finishing Your Engine 50-8
+Hinds, Stan, The Hinds Twin 15-16
+Hints, Workshop 57-16
+Hirth Joint, by Rolf Depping, 62-7
+Hirth Joint, Calculation and Machining a, by Rolf Depping: 62-7
+Hit-n-miss engine operation, 6-9.
+Hit-n-miss engine, 5-20.
+Hit-n-miss engine, Richard W. Condon & Roy Moody 20-5
+Hit-N-Miss, Ignition system for, 68-33
+Hob, Gear Cutting 40-3
+Holders, tool post, 5-10; 6-18.
+Hole boring, Small, Bob Paule P.E.-In The Shop 13-18
+hole in the right place, The right 8-16
+Holes, Line boring small, 68-32
+Holes, threaded, 4-6.
+HOLT TOPICS, Bob Paula P.E. - IN THE SHOP 25-30
+Home Machine Shop Electronics By Gordon L. & Rex Stanley 49-6, 50-10
+Homemade Miniature Spark Plug Connectors By Stephen P. Zielinski 34-28
+Hone ,Simple Cylinder No.80-29
+Hone, lap or, 1-15.
+Honing techniques, 2-3.
+Honor Roll: 84-12
+Host, Robert Piston & Rings 32-38
+Howell, Jerry: 45-31; 69-2
+Humble Bee, The, construction article: 68-15; 69-8; 70-7
+Hutchinson, Don 40-12
+Hutton, Albert C. 5 cover &-3; 6-4.
+Hutton, Albert C. A Racing Engine Spark Plug Construction Article 33-5
+Hutton, Albert C., Notes on Multi-cylinder Crankshaft Balancing 16-3
+Hutton, Albert, 9-3; 10-3
+Ignition Coil & Spark Plug Tester, Model Engine By Joe R. Macias 34-8
+Ignition Coils & Magnetos in Miniature 56-33
+IGNITION CONTROL FOR MODELS, INFRA-RED, by John R. Warren - TIP SHEET 29-22
+Ignition System for Hit-N-Miss, by James K. Gehringer, 68-33
+IGNITION SYSTEM INDEX, FINE TUNING THE SPARK, by Floyd E. Carter 27-28
+Ignition System, A Sparker for a Small, I.C., 4-stroke Engine, 73-4
+Ignition systems, A look at Spark, Floyd E. Carter 21-3
+Ignition Systems, Miniature Engine Electronic, by Dan Reichmuth 55-5
+Ignition, An Explanation of Solid State, by Bob Shores 58-11
+Ignition, Electronic :68-29
+Ignition, Low Voltage I.C., by Floyd E. Carter, 67-9
+Ignition, Solid State, An Explanation 58-11
+Ihlein, Hank 58-29
+II
+IMO Champion Reproduction Progress Report, 37-8
+Impeller/diffusers for radials, 4-13.
+Improvements to 2-stroke engines, By Bob Paule PE CFPE 54-13
+IN MEMORIAM Dennis Hilliar Chaddock 31-9
+IN MEMORIAM Everett Rice 36-37
+IN MEMORIAM Lyndon Arlie Peterson 32-9
+In Memoriam No.84-41
+IN MEMORIAM The late Reginald L. Wood, 25-10
+IN MEMORIAM The late Wiliam (Bill) C. Fill, 26-9
+In Memoriam, Lee Root, 76-7
+In Memoriam, Merritt A. Zimmerman, 67-8; George Trimble, 70-27
+In memoriam, The late George G. Scott 16-30
+Induction systems, 5-13.
+Infernal Combustion Engines by Edward F. Obert - injection carburetor 51
+Information help wanted, 1-6.
+Injection, carburetor Useful Direct Quotes - Internal Combustion Engines 51-34
+Innovating machining techniques, Roger J. Schroeder -Winged Motors 13-21
+Instructions for Building a Miniature Vertical Engine Construction Article By George D. Britnell 33-8
+Internal Combustion and related thoughts, More on the Origins of the 72-11
+Internal Combustion Engine, More on the Origins of the, 73-15
+Internal Combustion Engine, Origins of the, by Dr. Bob Kradjian: 67-32; 68-12
+Involute Forms with the Aid of a Personal Computer, Machining True, by Todd Spath 49-32
+Iowa Marine Engine, The By Don Achen; 47-34
+Irregular Piece of Stock, Squaring up an, 73-5
+It's Been Fun 60-10
+It's Finally Running, A miniature, Quarter-scale, 18-cylinder, double-row radial engine, by Harold O.
+Beckett; 45-3
+Jackson, David, 68-35
+Jaffle Iron, The by Brian Winch, 71-27
+JEMMA, 7-cyl. radial construction, The by Eric Tomlinson: 72-3; 73-11; 74-15; 75-16; 76-3
+Jenkins, Roderick, Cam Design for 4-stroke Cycle Engines Other Than Radials 18-3
+Jenkins, Roderick, Springs 19-3
+Jerozek, Leigh 42-25
+Jet Engines, Model, by Thomas Kamps Book Review By Bryan J. Seegers 49-37
+Jet, making a Ise, 71-33
+JJ
+Johansen, Eric, 46-3; 47-14
+Johnson, David: 53-7; 54-5; 55-3, 56-3
+Jorgensen, Robert G.; 45-28
+KEAT'S FIXTURE, A 42-10
+Keats, Vince, 1-9.
+Keats, Vince, photo opp., 7-22
+Kelsey, Richard E., Cam Rings for Radials 17-29
+Kemble, J.E. 55-32
+KENYON, Joe, Construct the MATE 2cc Model Diesel Engine: 26-12; 27-11; 28-27
+Keyway, Cutting a small: 4-13.
+Kinner Camshaft Production, 74-35
+Kinner K-5 Radial Engine Construction, by Pieter Dekker: 36-8; 37-26; 38-10; 39-31; 40-27
+Kinner, 5-cyl Radial, The 1/6th-scale Construction by David Johnson 53- 7, 54-5, 55-3; 56-3
+Kirk Miniature Dynamometer by Kirk/Washburn: 62-3; 63-3; 64-25; 65-34; 66-33;67-29; 69-30;70-30
+Kirk, William (Bud): 58-29; 62-3; 63-3; 64-25; 65-34; 66-33
+KK
+Knaell, Ken Turbojet Review 36-30
+Knapp, Paul: 44-33; 56-5; 68-36; 70-29; 71-3; 73-29; 76-14; 79-12; 81-31; 84-33
+Knurling - A black art, by Oscar Ortiz, 67-12
+Knurling Kneed Knot be a Black Art, by Guy Lautard, 69-10
+Kornmüller, Heinz 54-34
+Kradjian, Dr. Bob: 60-35; 67-32; 68-12; 68-31; 74-3; 80-7
+Lap or Hone? 1-15.
+Lapping pistons and a running fit, 7-18
+Lapping tool, valve seat, 7-16
+Laps, making small-bore, 12-16
+Lathe Center Holes By Don A. Bell 33-36
+Lathe Chuck Maintenance 59-24
+Lathe Chuck, 4 jaw, Self-centering; 43-9
+Lathe Fixed Steady Rest, Tips for Using 35-8
+Lathe Threading, by Colin Browning, 68-30
+Lathe Tool Holder, A simple, 74-29
+Lathe Tool Post 35-27
+Lathe, Buying a, Some Ideas On 31-10
+Lathe, Some Ideas About buying a, (Winged Motors) How-to Series Roger J. Schroeder: 30-6
+Lathe, Stock Support Mandrel 31-31
+Lathe, The Grizzly 12" X 36", 47-35
+Lautard, Guy: 69-10; 9-15
+Leak, Arthur Turret and Box Tool for Myford S7 54-3
+Leak, Arthur, the late 58-31
+Lee, Kirk; 45-10
+Leslie, Harman, Cutting Alumina Tubing 17-31
+LESUE, Harmon, Drilling 6 Tapping Holes -TIP SHEET 28-6
+Letter from the editor, A 15-30
+Letters to the editor: 4-10; 6-19; 7-14; 8-19, 9-16; 10-26; 11-22; 12-26; 13-23; 14-29; 15-29; 16-29;
+17-31; 18-29; 19-27; 20-24; 21-32; 22-34, 23-33, 24-33; 26-32; 27-33; 28-32; 29-30, 30-36
+Lewis, Jim A cut-off Tool 32-38
+Lewis, Jim: 75-10; 80-10
+Lion, Napier, 1-5.
+Little Joe, George Trimble: 15-3; 16-6; 17-11
+LL
+Lloyd, Ken Boring & Finishing Wall Sleeves 19-23
+Lloyd, Ken, tip sheet, 12-16
+Localized Case Hardening of Steels, by Jim Moyer, 68-36
+LOCTITE, the friendly giant, Rod Petree 16-12
+Loftquist Diesel Conversion Head for the Simple Single The Simple Twin 55-27; 56-15; 57-26; 58-3; 59-
+25; 60-12
+Long Way of a Beginner, The Ideas for building a crankshaft grinding machine, by Rolf Depping 46-10
+Loop, F.E. Pat 40-3
+Lost Wax Casting 56-24
+Low Voltage I.C. Ignition, by Floyd E. Carter, 67-9
+Lubrication, Engine; by Hamilton Upshur 62-9
+Lyndon Peterson, 3-9.
+Machining techniques, innovative, Roger J. Schroeder -Winged Motors 13-21
+Machining True Involute Forms with the Aid of a Personal Computer 49
+ Machinist’s Third Bedside Reader 37-10
+ Maciag, Ted, 71-4; 72-8; 73-13
+ Magnetos for the Bentley BR2: 77-9; 78-9; 79-3; 80-24
+ MAGNUM 40 GP OR OS MAX 35/40 FP to spark ignition, converting the, by Don Hutchinson 40-12
+ Making a...Pulse Jet, by Ron Moulton, 71-33
+ Making do, 4-11.
+ Malaysia and Singapore Vintage Car Register, The Magazine of the 40-9
+ Mandrel, A Unique-type; 45-11
+ Mandrel, an adapted manufactured one; 45-11
+Mandrels, Expanding By Leigh Jerozek 42-25
+ Manifold pressure sensoring, 6-22.
+ Manufacture processes, Lionel F. Weightman 13-14, 14-24
+ Master Rod, Quick Method of Finding Radial Rod Centers By William A. Mazak 54-27
+ MASTER ROD, Radial Engine & Slave Rod Link Angular Spacing, Frank Gough 26-3
+ MASTER ROD/KNUCKLE PIN GEOMETRY OF RADIAL ENGINES, OBSERVATIONS ON THE
+ COMMERCIAL DESIGN PRACTICE OF Rollin Armer 28-3
+ MATE 2cc MODEL DIESEL ENGINE, Construct the, by Joe Kenyon: 26-12; 27-11; 28-27
+ Mate, Australian, The, Robert A. Washburn -What In The World's New?14-28
+ MATE, Construct the 2cc Model Diesel Engine, by Joe Kenyon: 26-12; 27-11; 26-27
+ Material Strops for the Headstock41-29
+ Mathis, Ross Fixture for Grinding the Helix of End Mill Flutes 53-4
+ Matters Arising, 78-23
+ Maxse-T Seven A fully equipped seven-cylinder radial, The By Robert Washburn 51-11
+ Maytag 1/2 scale, 4-24.
+ Mazak, William A. Finding Radial Rod Centers 54-27
+ McMahon, Richard 58-30
+Menred, Holger 1st Annual German Model Engineering Exhibition 32-4
+ Merlin, Notes on its ignition system By Barrington Hares 53-3
+ Metals, Much Ado About , by Robert C. Cornell; 46-26
+Metinski, Stephen P. Homemade Miniature Spark Plug Connectors 34-28
+ MIDGET GAS ENGINE, the - WINGED MOTORS - Roger Schroeder Construction Article Part 5. 25-6
+ Midget gas engine, The, by Roger J. Schroeder - Winged Motors: 21-19; 22-8; 23-30; 24-28
+Midlands Model Engineering Exhibition (1992) By Ernest Fordharn 31-12
+Midlands Model Engineering Exhibition (1993) Robert A. Washburn 36-27
+ Miller, Richard, 73-10
+ Miller, T.H. 58-4
+ Miller, T.M., 67-14
+ Miller, Tim, 73-6
+ Millerless, 45-29
+ Milling machine CNC retrofit kit, 67-31
+ Milling Machine, Sherline, Press Release, 65-27
+ Milling Machine, Sherline, Product Review, by Robert A. Washburn, 66-31
+ Miscellaneous, 45-32
+ MLA Diesel, 44-38
+ MM
+ Model A Ford Historical Notes & Specifications Rollin Armor 56-9
+Model Engine Ignition Coil & Spark Plug Tester Macias, Joe R.
+ Modeler's Club or Association, How to organize your own, 74-3
+ Mold maker, Become an expert, by Bruce B. Satra - Pilgrim's Progress: 11-3; 12-3;13-3; 14-3
+ Molds, Permanent Steel Vacuum Casting; 43-11
+ Montforton, Paul H., Custom Miniature Spark Plugs 18-25
+ Moody, Roy (& Richard W. Condon) Hit-n-miss Engine 20-5
+Moody, Roy (see DESIGN IDEAS column) various
+ Moore, Jack, 3-3.
+ Morton M-42, 4 cover.
+ Morton M-5, by Bruce Satra, 68-36
+ Motorcycle engine, No.83-3, No.84-37
+ Moulton, Ron, 71.33
+ Mounting a Vernier or Dial Caliper to Plot Carriage Movement on Your Lathe By Hank Ihlein 57-29
+ Moyer, Jim: 58-33; 68-36; 80-9
+ Muffler for sound, not power, How to tune a 12-7
+ Mulder, Hans: 77-9; 78-9; 79-3; 80-24
+ Multiple Valves ...Useful direct quotes 65-26
+ Museum, Miniature Engines No.79-12, No.80-30, No.81-3, No.84-33
+ My Two Cents Worth By Scott Beshears 58-27
+ Myford Sl, Turret and Box Tool By Arthur Leak 54-3
+ N.A.M.E.S., 1990 1st annual 70-28
+ N.A.M.E.S., 1991 2nd annual, 21-26
+ N.A.M.E.S., 1992 3rd annual 28-24
+ N.A.M.E.S., 1994 39-27
+ N.A.M.E.S., 1995 6th annual: 45-33
+ N.A.M.E.S., 64-31
+ N.A.M.E.S., 70-28
+ N.A.M.E.S., A Report On The 1st Annual, byThomas R Stockton: 16-20
+ N.A.M.E.S., A report on the 2nd annual, by Robert A. Washburn 21-26
+ N.A.M.E.S., Announcement, 1st Annual, 13-15
+ N.A.M.E.S., Announcing, Third Annual 23-33
+ N.A.M.E.S., EXHIBITION REMINDER, 25-10 3-29 Announcement of, 26-111
+ N.A.M.E.S., Reminders of the coming 3rd annual, 23-33, 24-32
+ N.A.M.E.S., Second Annual, Announcement, Thomas R Stockton 18-10
+ N.A.M.E.S., Seventh Annual Exhibition 51
+N.A.M.E.S., THIRD ANNUAL ANNOUNCEMENT 26-11
+ N.A.M.E.S.,1997 57-12
+ Name plates using circuit board type manufacture processes Lionel F. Weightman 13-14,14-24
+ Nameplates 55-8
+ nameplates and spec. plates for your model engine, Producing 2-17.
+ Nameplates, producing and spec. plates for your model engine, 2-17.
+ Napier Lion, i-5; 6-23.
+ Needle valves, making small, 12-16
+ New Holland, front cover 8
+ Nickel plating, 8-12
+ Nickel-Cadmium Cells and Batteries, A Practical Guide to, by Floyd E. Carter 53-34
+ Nine-cylinder radial, 2 Cover; 6 Cover
+ NN
+ Noise, Gas Turbine Engineering Handbook Useful Direct Quotes 54-14
+ Notes on the Construction of a 75cc Flat Four - The BP 75 By Brian Perkins 51-3
+ NOVICES' VIEWS TO MACHINING Column Setting Over Single-journal, Overhung Crankshafts By Alan
+ R. Chartwood 36-12
+ nuts, More on Bruce B. Satra - Pilgrim's Progress 22-7
+ Odds & Ends, Some unrelated, 74-9
+ Odds and ends about engine tweaking, 6-8.
+ Odds and Ends, by Leonard Woods: 63-31; 64-9; 65-24
+ Offenhauser 270 Engine, A ¼ scale, by Robert A Washburn 31-5
+ Offenhauser, A 1/4-scale 270 Engine article 31-5
+ Ohlsson, Running the original Roger J. Schroeder -Winged Motors 14-20
+ Ohlsson, The original 6-16.
+ Ohlsson, the original, by Roger Schroeder: 6-16; 7-11, 8-25; 9-8; 10-22; 11-12; 14-20
+ Ohmdorf, Martin, 64-5
+ Oil Pump, 73-8
+ Oil Pump, The Vane-type by James A. Reynolds, 68-35
+ Oil Pump, the Vane-type, 68-35
+ Oil rings, 5-17.
+ Oiler, Sight Gage 55-13
+ Olsryd, Karl-Erik, Miniature Wright J-5 Whirlwind Engine: 24-9; 25-11; 26-13; 27-13; 28-12; 29-13
+ Olympus racing engine, The story of the 5-3; 6-4.
+ Olympus, four-cylinder in line, 5 cover &-3; 6-4.
+ Omission, From Robin construction series 22-31
+ One Cylinder, Reasons for its Use 59-29
+ OO
+ Ooo-oo-ops, 74-32
+Opposed Piston Engine: 79-28; 80-26; 81-28; 82-6
+Opposed twin, Ressler 25, 12,-12
+Opposed-piston Engines, 77-28; 78-3
+Ortiz, Oscar, Shop Tips & Shortcuts, 67-11
+Ortiz, Oscar: 58-32; 61-11, 62-28, 65-12, 66-13
+OS MAX 35/40 FP, Converting The, To Spark Ignition 40-12
+Owen, David, Australian Mate-What In The World's New?14-28
+Owen, David, Knurling for Propeller Drives 19-24
+P.R.I.M.E., 66-28
+P.R.I.M.E., First Annual, by Robert A. Washburn 60-31
+Pape, David ERRATA Connecting Rod Collision Checking Computer Program 50-9
+Pape, David; 45-6
+Parting Off, by Colin Browning, 68-30
+Patternmaking, the original Ohlsson: 8-25
+Paul, Brayton B Cam-Axial Construction Series: 22-25; 23-26
+Paul, Brayton, 10-5
+Paul, Roger (Roger's Corner) 1-3; 2 cover &17; 3-15; 4-14; 5-12; 6-21.
+Paul, Roger (Roger's Corner) Making a DC power supply, 11-21
+Paul, Roger (Roger's Corner) Nickel plating, 8-12
+Paul, Roger (Roger's Corner) Radial engine cam ring design, 9-14
+Paul, Roger (Roger's Corner) Spark Plugs Made Easy, 13-7
+Paul, Roger (Roger's Corner) Spark Plugs Made Simple, 13-7
+Paul, Roger, 8-12; 9-14; 11-21
+Paule PE, Bob, 1-15; 2-3; 3-17; 4-4; 5-15; 6-3.
+Paule, Bob No.84-41
+Paule, Bob P.E (In The Shop) 1-15; 2-3; 3-17; 4-4; 5-15; 6-3.
+Paule, Bob P.E (In The Shop) 19-9, 20,-6, 21-10, 22-28, 23-8, & 24-7
+Paule, Bob P.E (In The Shop) 49-11, 50-37, 51-31, 52-12, 53-10, 54-10
+Paule, Bob P.E (In The Shop) A Report on the 1995 N. A. M. E. S. Exhibition, 45-33
+Paule, Bob P.E (In The Shop) Anaerobic or Chemical Locking Technology: 21-10; 22-28; 23-8; 24-7
+Paule, Bob P.E (In The Shop) Band Saw Blade Welding, 16-9
+Paule, Bob P.E (In The Shop) Center Finding in the Four jaw Chuck, 15-5
+Paule, Bob P.E (In The Shop) England's 61st Model Engineer Show, 26-24
+Paule, Bob P.E (In The Shop) English to American 52
+Paule, Bob P.E (In The Shop) Female Centers 54
+Paule, Bob P.E (In The Shop) First Annual Strictly I.C. Miniature Internal Combustion Engine Awards
+Contest 33-32
+Paule, Bob P.E (In The Shop) Gear Topics - Backlash, 46-31
+Paule, Bob P.E (In The Shop) Holt Topics, 25-30
+Paule, Bob P.E (In The Shop) Improvised Reamers & Drills, 30-9
+Paule, Bob P.E (In The Shop) Lathe Stock Support Mandrel 31-31
+Paule, Bob P.E (In The Shop) Morton M-5 Cylinders, 18-8
+Paule, Bob P.E (In The Shop) No! Out of the Shop, 20-6
+Paule, Bob P.E (In The Shop) Product Review - A Spring Winding Wire Tensioner 34-5
+Paule, Bob P.E (In The Shop) Recycling Cutting Tools, 29-24
+Paule, Bob P.E (In The Shop) Screw Thread Systems, 17-9
+Paule, Bob P.E (In The Shop) Seventh Annual Names Exhibition 51
+Paule, Bob P.E (In The Shop) Small Hole Boring, 13-18
+Paule, Bob P.E (In The Shop) Small Parts Vise 50
+Paule, Bob P.E (In The Shop) Small Passage Plugs 53
+Paule, Bob P.E (In The Shop) Spring Winding, 27-24
+Paule, Bob P.E (In The Shop) Super Glues, 14-18
+Paule, Bob P.E (In The Shop) Tap Drill Sizes, 47-30
+Paule, Bob P.E (In The Shop) Tap Storage Holder 49
+Paule, Bob P.E (In The Shop) Tapping Problems 32-28
+Paule, Bob P.E (In The Shop) Tapping Problems, 48-6
+Paule, Bob P.E (In The Shop) The 1992 3rd Annual NAME Exhibition, No.28-24
+Paule, Bob P.E (In The Shop) The 1993 Midlands Model Engineering Exhibition 36-27
+Paule, Bob P.E (In The Shop) The Sine Bar, 19-9
+Paule, Bob P.E (In The Shop) Tips For Using the Lathe Fixed Steady Rest 35-8
+Paule, Bob P.E (In The Shop) Traveling Steady rest, 43-36
+Paule, Bob P.E (In The Shop) When Was the Last Time - or, Something to Think About? 44-7
+Paule, Bob P.E (In The Shop)-Small Hole Boring, 13-18
+Paule, Bob PE CFPE 49-11, 50-37, 51-31, 52-12, 53-10, 54-10
+Paule, Bob PE CFPE 55-13, 56-11, 57-12, 58-6, 59-24, 60-10
+Paule, Bob PE CFPE; 43-36; 44-7; 45-33; 46-31; 47-30; 48-6
+Paule, Bob; 7-8; 8-9; 9-17; 10-20; 11-9; 12-10
+Paule, P.E. 37-11, 38-8, 39-27, 41-29, 42-16
+PC 8.350, Design & construction of the Chernikeeff, 74-12
+Peewit 5.5cc, Horizontally opposed 4-cyl., 4-stroke, Air Cooled, Glow Ignition Aero Engine, by Eric
+Whittle: 57-3, 58-14, 59-10,60-33; 61-3
+Pegg, Robert L., 70-26
+Perkins vertical pump engine, 8-11
+Perkins, 70-33; 72-30
+Perkins, Brian 51-3; 61-26
+PERMANENT MOLD PRESSURE CASTING PILGRIM'S PROGRESS:42-11
+Pete, Lyndon Peterson, cover; 3-9.
+Peterson, “Pete”, hit-n-miss, photo opp., 7-23
+Peterson, Lyndon (Pete), 1 Cover; 3-9.
+Peterson, Lyndon Arlie IN MEMORIAM 32-9
+Petree, Rod, -Cosmetics, 15-20
+Petree, Rod, -Loctite, The Friendly Giant, 16-12
+Phillips, Tony, Calculating Angles 54-28
+PHOTO ELECTRICICAPACITOR DISCHARGE IGNITION, Kenneth H. Smith 28-6
+Photo opportunities, 7-22; 11-23
+Photofabrication (Chemical Milling), By Nicholas S. Tyler; 48-34
+Photographing that Prized Model, By Ernest Fordham; 48-13
+Pigtails & Cream, Of 34-34
+PILGRIM'S PROGRESS 49-27, 50-38
+PILGRIM'S PROGRESS More Wisdom on Tapping & The Process of Lost Wax Casting 56-24
+Pilgrim's Progress, 1,-7; 2-15; 3-5; 4-17; 5-8; 6-18.
+Piston & Rings 32-38
+piston at TDC, Setting the 6-21.
+Piston design and clearances, 5-12
+Piston design, 8-23
+Piston rings, 3-17; 4-4; 5-17.
+Piston Rings, 45-10
+Piston rings, Design and fabricating 7-3; 8-3; 9-20
+Piston Rings, Easy & Accurate Gapping of Miniature, by P.E.L. Whittle 35-28
+Piston rings, Finishing, Tip Sheet Bruce Abell 19-26
+Piston Rings, heat treating, 71-29
+Piston turning fixture, 6-3.
+Piston, Turning Oval by Rolf Depping 54-32
+Pistons, 4-11; 5-15; 6-3.
+Pistons, Oval, 73-3
+Pittner, John No.80-29
+Plaster of Paris molds to cast patterns in polyester body filler, 75-9
+Plastics, Compatibility with fuels; 47-12
+Plating, nickel, 8-12
+Plugs, Small Passage In The Shop 53-10
+Point Cycle Program By Mike Early 50-3
+points to open at TDC, Setting 6-22.
+Polarity, Spark Pulse & The I.C. Engine 55-30
+Polish Aluminum For an Award-winning Finish, How to: 80-7
+Polishing Aluminum No.80-7
+Positioning Individual Cam Lobes for a Four-cylinder Engine by Heinz Kornmüller 54-34
+Potpourri 50
+Potpourri Notes, by Paul Knapp, 68-36
+Potpourri Pilgrim's Progress 50-38
+Potpourri, 6-21.
+Powell, Phillip J.; 45-29
+PP
+Practice Makes Perfect, 45-28
+Pressure? Crankcase 55-28
+Preston, Stan, 74-26
+PRIME Exhibition, The 2000: 78-26
+PRIME Exhibition1999, 72-33
+Prime-evil Affair, A, By Ivan Sparks; 48-10
+Print frame construction, Lionel F. Weightman 15-25
+Producing miniature hex nuts, Bruce B. Satra - Pilgrim's Progress 21-6
+Profanity Preventer, The (electric starter) By Bob Shores 57-28
+Project Rating 60-3
+Propeller Blades, 44-28
+Pump, Oil, 73-8
+punch and die set, Producing a simple 4-17.
+Punch dies, using and producing, 5-8.
+QQ
+Quick Method of Finding Radial Rod Centers By William A Mazak 54-27
+Quigley, John Forum 01 Improvement to the 2-stroke engine54-13
+QUIGLEY, John, The Objective of Radio Controlled pre-1938 Engine Designs In Competition Called
+TEXICO 28-9
+Quigley, John: 5-7; 12-9; 39-8; 71-4
+Quorn Tool and Cutter Grinder, The By (the late) Prof. Dennis Chaddock; 48-12
+Radial engine cam ring design, 9-14
+RADIAL ENGINE MASTER ROD & SLAVE ROD LINK ANGULAR SPACING, Frank Gough: 26-3
+Radial engine timing sequences, Letters to the Editor 14-30
+Radial engine, 7-cylinder, 72-3
+Radial Engine, Balancing 60-8
+Radial Engine, Balancing a By Allan G. Fillery 52-31
+Radial Engine, Kinner K-5: 36-8; 37-26, 38-10, 39-31, 40-27
+Radial Engine, The Clifford, 67-14
+Radial Engines, More on Big Ends, by Leonard Woods, 62-30
+Radial Engines, Optimizing Big Ends of 57-9
+Radial Engines, The Big End Design for, by Leonard Woods 56-14
+Radial, 1/6th-scaleKinner 55-3,56-3
+Radial, 18-cylinder; 45-3
+Radial, 7-cylinder; 48-3
+Radial, A fully equipped Seven-cylinder The Maxse-T Seven By Robert A. Washburn 51-11
+Radials, impeller/diffusers for, 4-14.
+Radials, Two-stroke, 47-12
+Radiator No.80-9
+Radiator, Constructing a Miniature No.80-9
+Radius Turning Tool, A, by John A. Bodmer, 46-33
+Rating Construction Projects By Preston Richey 60-3
+RC-22 Engine; 44-14; 45-13; 46-15; 47-16
+Reader's service, Alumina Tubing 13-9
+Real engines are round, Roger J. Schroeder-Winged Motors 15-8
+REAMERS 3 DRILLS, IMPROVISED, by Bob Paula P.E. - IN THE SHOP 30-9
+reamers for our special engine-building needs, How to make these small 1-7.
+Reamers: 1-7; 38-8
+Reaming The Close-fit Way By William (Bud) Kirk 58-29
+Reasons For The Use of More Than One Cylinder & Engine Balance By Pieter Dekker 59-29
+Recoil Starters for Model Engines Design Ideas 50-36
+RECYCLING CUTTING TOOLS Bob Paula P.E. - IN THE SHOP 29-24
+REDUCER TRANSMISSIONS 40-31,41-30
+Reducer Transmissions, by Richard W. Condon: 40-31; 41-30
+Reichart, Bill 60-29
+Reichmuth, Dan 55-5
+Research procedures to build a scale engine, My, Bruce B. Satra - Pilgrim's Progress 19-7
+Ressler twin 25, 12-12
+RESSLER twin 25, The, Lloyd Ressler, construction article-conclusion 13-10
+Ressler, Lloyd; 45-32
+Ressler's design, Build a 25cc 4-stroke twin to Lloyd: 12-12
+Reynolds, James A., 68-35
+RICE, Everett FULLER 3 JOHNSON FARM-TYPE WATER PUMP ENGINE: 25-25 (5)
+Rice, Everett IN MEMORIAM 36-37
+Rice, Everett, Fuller & Johnson 1909 Farm-type Water Pump Engine: 20-21; 22-11; 23-11; 24-26
+Richards, Tom, A Little History of the Turbojet Engine 17-3
+Richer, Peter- Reported by Tether Car Racing Still Exists 33-38
+Richey Rating System By Preston Richey 60-3
+Richey, Preston 60-3
+Riechart, Bill, 61-13, 62-5
+RING GAPPING THE TRIMBLE WAY By P.E.L. Whittle 41-33
+RING GROOVES, Russell Watson-Will A cutter for, 28-7
+Ring, fixture design and construction, 8-3
+Rings, Another Way of Gapping, by Rolf Depping: 68-30
+Rings, Gapping The Trimble Way, 41-33
+Rings, oil, 5-17.
+Rings, piston, 3-17; 4-4; 5-17.
+Roach, Tom: 78-3; 79-28, No.80-26, No.81-28, No.82-6
+Robin, construction series P.E.L. Whittle (Eric): 19-23; 21-13 (2-3)
+Robin, P.E.L. (Eric) Whittle, construction article 18-11
+Robin, Whittle, 61-3, 62-32
+Robin's augmentation, An omission in the Robin construction series P.E. (Eric) L. Whittle 24-31
+ROBOPROBE, Part 1, 77-3; Part 2, 78-6
+Rogerson, Jack, 74-29
+Rolls Royce Aero Engines, A direct quote, 74-34
+Rolls-Royce Eagle 22, Progress Report: 75-3; 81-7; 82-3
+Root, Lee A Stromberg Carburetor in Miniature Construction Series: 29-3; 30-3; 31-3
+Root, Lee A., Lathe Tool Post 35-27
+Root, Lee, 75-7
+Rossello, Dariano, Glow Plug Driver 19-25
+Rotary Engine No.82-29
+Rotary engine, the Chenery Gnome, 2-20; 6 cover.
+Rotary valve engine nine-cylinder radial construction concept, a, 2-13.
+Rotary valve nine cyl. radial engine, a: 2-13
+Roy, Edgar L.; 43-16; 44-8; 45-15; 46-3;
+RR
+R-R Eagle 22, An Inspiration for All,: 81-7; 82-3
+Rusbatch, G., 73-9
+Safety, An Aspect of Workshop 74-9
+Salmson Radial Engines, The by Leonard Woods, 61-25
+Samphier, John; 43-9
+Satra, Bruce B. (Pilgrim's Progress) 19-7, 21-6, 22-7, 23-29
+Satra, Bruce B. (Pilgrim's Progress) 49-27, 50-38, 52-14
+Satra, Bruce B. (Pilgrim's Progress) A mill-side chat, 8-20, 9-7
+Satra, Bruce B. (Pilgrim's Progress) A spot of potpourri:15-27
+Satra, Bruce B. (Pilgrim's Progress) Become An Expert Mold Maker, 11-3; 12-3; 13-3; 14-3 (check)
+Satra, Bruce B. (Pilgrim's Progress) Cool-running Engines Reassessed, 48-9
+Satra, Bruce B. (Pilgrim's Progress) Gears 34-32
+Satra, Bruce B. (Pilgrim's Progress) --Investment (lost wax) Casting: 16-25; 17-23
+Satra, Bruce B. (Pilgrim's Progress) Investment-Lost Wax Casting Techniques, 16-25; 17-23
+Satra, Bruce B. (Pilgrim's Progress) Machining Propeller Blades, 44-28
+Satra, Bruce B. (Pilgrim's Progress) More About Die Casting Procedures & Methods 32-30
+Satra, Bruce B. (Pilgrim's Progress) More On Foundry Work 31-32
+Satra, Bruce B. (Pilgrim's Progress) More on Nuts, 22-7
+Satra, Bruce B. (Pilgrim's Progress) My Research Procedures to Build a Scale Engine, 19-7
+Satra, Bruce B. (Pilgrim's Progress) Permanent Steel Vacuum Casting Molds, 43-11
+Satra, Bruce B. (Pilgrim's Progress) Piston Rings, 25-32
+Satra, Bruce B. (Pilgrim's Progress) Potpourri, 28-25
+Satra, Bruce B. (Pilgrim's Progress) Producing Miniature Hex Nuts, 21-6
+Satra, Bruce B. (Pilgrim's Progress) Reflections, 46-13
+Satra, Bruce B. (Pilgrim's Progress) Steel marking stamp holder, valve seat design
+Satra, Bruce B. (Pilgrim's Progress) Supercharging of Model Engines, 47-9
+Satra, Bruce B. (Pilgrim's Progress) The Whys and Wherefores of Building a Single-cylinder Engine as a
+Test Bed, 27-10
+Satra, Bruce B. (Pilgrim's Progress) Valve Seals, 23-29
+Satra, Bruce B. (Pilgrim's Progress) Valve seat lapping tool, and corner rounding Cutters, 7 pg16
+Satra, Bruce B; 43-11; 44-28; 46-13; 47-9; 48-9
+Satra, Bruce, 1-5 & 7 & 20; 2-15; 3 cover, 5 & 20; 4-17; 5-8&10; 6-18&24; 7-16; 8-20; 8-7; 11-3; 12-3; 38-
+7, 39-5, 40-33, 42-11; 56-24, 57-16,60-11; 68-36
+Scavenging systems, 4-8.
+SCHILLER, JIM 37-10
+Schiller, Jim, 74-7
+Schmidt, J.D. 60-8
+Schofield, Dave, Glass Fuel Tanks 54-33
+Schroeder, Roger J. (Winged Motors) 1-17; 2-9; 4-19; 6-16.
+Schroeder, Roger J. (Winged Motors) Book Reviews A History of Piston Aircraft Engines 33-35
+Schroeder, Roger J. (Winged Motors) Casehardening of Model Engine Components, 28-28; 28-26 (check)
+Schroeder, Roger J. (Winged Motors) Current Projects - Vivell Twin 34-10
+Schroeder, Roger J. (Winged Motors) Innovative Machining Techniques, 13-21
+Schroeder, Roger J. (Winged Motors) Judging Temperatures: 16-24
+Schroeder, Roger J. (Winged Motors) Midget Gas Engine: 21-29; 22-8; 22-30; 23-39; 24-28; 25-5; 25-6;
+26-26 (check)
+Schroeder, Roger J. (Winged Motors) Model Glow Plug Engines 33-35
+Schroeder, Roger J. (Winged Motors) Original Ohlsson: 7-11; 8-25; 9-8; 10-22; 11-17; 12-17
+Schroeder, Roger J. (Winged Motors) Progress Report, The Deezil Project: 35-7;38-36
+Schroeder, Roger J. (Winged Motors) Real Engines are Round, 15-8
+Schroeder, Roger J. (Winged Motors) Reproduction Project 37-8
+Schroeder, Roger J. (Winged Motors) Running the Original Ohlsson, 14-20
+Schroeder, Roger J. (Winged Motors) Sheet Metal Forming, 17-24
+Schroeder, Roger J. (Winged Motors) Some Ideas About Buying a Lathe: 30-6; 31-10 (1-2)
+Schroeder, Roger J. (Winged Motors) Some of my Friend's Work, 46-15;
+Schroeder, Roger J. (Winged Motors) The Deezil Engine: 39-10; 40-11; 41-32; 42-29; 43-13
+Schroeder, Roger J. (Winged Motors) The MLA Diesel, 44-30;
+Schroeder, Roger J. (Winged Motors) The Scotch Yoke 32-10
+Schroeder, Roger J. (Winged Motors) The Simple Single: 49-29; 50-12; 51-27; 52-7; 53-32; 54-11
+Schroeder, Roger J. (Winged Motors) Two-stroke Cycle Engine Porting, 29-25
+Schroeder, Roger J. (Winged Motors) Unique Design & Production Features of the Ohlsson 23, 18-22
+SCHROEDER, Roger J. 37-8, 38-36, 39-10, 40-11, 41-32, 42-29
+Schroeder, Roger J. 55-27, .56-15, 57-26, 58-3, 59-25,60-12
+Schroeder, Roger J.; 43-13; 44-30; 46-15; 47-35
+Schroeder, Roger, 70-9
+Schubarth, Alfred, 76-5
+Scorpion V8, by John V. Thompson: 66-3; 67-3; 68-8; 69-3 (1-4)
+Scotch Yoke 32-10
+Scott, George G., The late, In Memoriam 16-30
+Scott, George Guy, The Late, 20-3
+Scratch-built six in line, A, 4-22.
+Scratch-built six in line, A: 4-22.
+Screws, Make Your Own Socket-Head Cap 73-3
+Screws, Work Holder for Small by Rolf Depping 54-32
+Search, 1-6.
+Seegers, Bryan J. Book Review Model Jet Engines by Thomas Kamps 49-37
+Seegers, Bryan, The Miniature S-100 Turbojet Engine: 14-9; 15-10
+Seegers, Bryan; 48-26
+Sharpening Twist Drills, 73-6
+Sheet metal forming, Roger J. Schroeder -Winged Motors 17-24
+Sherline angle plate, 72-29
+Sherline Digital Readout, Product Review, 67-25;
+Sherline Model 2000 mill, Press Release, The 65-27
+Sherline Model 2000, 8-axis mill, Product Review, The, by Robert A. Washburn: 66-31
+Sherline Model 2000, 8-axis milling machine, 65-27
+Sherline, Digital Readout, 67-25; Angle plate, 72-29
+Shop Safety, by Oscar Ortiz; Part 1, 61-11; Part 2, 62-28
+Shop Tips & Shortcuts, Removal of broken center drills;
+SHOP TIPS Lathe Center Holes By Don A. Bell 33-36
+Shop Tips, by Oscar Ortiz, 61-11, 62-28, 65-12, 66-13
+Shores, Bob 45-9;55-28, 57-28,58-1176-28
+Shores, Bob Another Coil Winding Machine 49-14
+Shortcuts, by Oscar Ortiz, Part 1, 65-12; Part 2, 66-13
+Side port, single-cylinder, 4-7.
+Sidewinder Another Coil Winding Machine, The ,By Bob Shores 49-14
+Sight Gage Oiler 55-13
+Silica Sand/C02 Process, Foundry Work, 74-7
+Simple & easy heat-treatment of shop-made cutters, 9-15
+Simple Single, The Winged Motors 49-29, 50-12. 51-27, 52-7, 53-32, 54-11
+Simple Twin, The 56-15, 57-26, 58-3, 59-25,60-12
+Simplex Auto Engine in 1/6th-scale (1911), drawings only by Roy/Washburn: 41-11; 42-15; 43-16;
+44-8; 45-15; 46-3; 47-14; 48-14 (3-8)
+Single Overhead Cam (SOHC), Merits of; 48-35
+Single-cylinder engine, unique, Bottle, by Bill Reichart, 61-13, 62-5
+Single-cylinder, side port, 4-7.
+Sirocco fan, Build a, by Richard Condon: 18-24
+Six-cylinder in line, 4-22.
+Sleeve Valve Engine No.83-3, No.84-7
+Sleeve Valve Engine, The Aquila, 61-26
+Sleeve-valve Aircraft Engine, The By John R. Feeney 56-6
+Small Block V8, Chevy, 75-9, 76-16; 77-25
+Small Dividing Device By the late Arthur Leak 58-31
+Small Gear Pumps 58-6
+Smith, Albert W.; 47-11
+SMITH, Kenneth H, Photo electric/capacitor discharge ignition 28-6
+Smith, Kenneth H., 47-33
+Smith, Philip H.; 48-35
+Smith, Richard, Valve Keepers-Tip Sheet 16-21
+Socket Head Cap Screws, Make your own, 73-3
+Solving Ken Croft's problem, 4-16.
+Something to think about, by Havemann: Gallons, Drops, Vapor, & Some Fishhooks, 43-26
+Something to think about, by Havemann: Who Was Sadi Carnot? And What Did He Do? 44-31
+Something to think about, by Havemann: Why Fuel Injection?, 46-27
+SOUND LEVELS, Determination of Richard Condon - DESIGN IDEAS 25-5
+Sources, model engine building supply, 2-9.
+Space Hopper.049, Cox, Conversion to sideport induction, E.D. Cox 14-13
+Spark coil, checking out a, 6-22.
+Spark coil, use a discarded magneto for, 3-8.
+Spark Ignition Conversion Using Hall-effect Components By Floyd Carter 36-35
+Spark Ignition Engines, 71-13
+Spark Ignition Engines, Combustion in 56-12
+Spark ignition systems for model engines A look at, by Floyd E. Carter, 21-3
+Spark Ignition Without a High Voltage Distributor By Floyd Carter 58-8
+Spark Plug Connector for High Voltage By Norm Brockelsby 58-29
+Spark Plug Connectors, Homemade Miniature 34-28
+Spark Plug Construction article, A Racing Engine, by Albert C. Hutton 33-5
+Spark Plug Fouling, Root Causes of By Kenneth H. Smith, 47-33
+Spark plug gaskets, 5-8.
+Spark Plug, A Racing Engine Construction Article By Albert C. Hutton 33-5
+Spark Plug, Still a Better 32-37
+spark Plugs , 2-10.
+Spark Plugs 39-4,40-8
+ Spark plugs made simple, Roger Paul -Roger's Corner 13-7
+ Spark Plugs, 1/4-32 Miniature 55-14
+ Spark Plugs, 44-35
+ Spark Plugs, A Few More Ideas About Making Miniature By M.E. Fitchett 35-29
+ Spark Plugs, by Edward Ellison, 68-33; by Upshur, 68-36
+ Spark Plugs, Construction of 1/4-32 Miniature, by Lewis Throop: 55-14
+ Spark plugs, Custom miniature, by Paul H. Monforton 18-25
+ SPARK PLUGS, MAKE YOUR OWN CERAMIC INSULATORS FOR By Lionel F. Weightman 40-8
+ Spark Plugs, Miniature 2-10.
+ Spark Pulse Polarity and the I.C. Engine By Floyd Carter 55-30
+ Sparks, Ivan Greasy & Oily Hand Cleaning 34-33
+ Sparks, Ivan Pigtails & Cream 34-34
+ Sparks, Ivan Spinner for Sockets 34-34
+ Sparks, Ivan; 49-10
+ Spath, Todd 49-32, 51-7
+ Spath, Todd 60-7
+ Spath, Todd; 47-3
+ Spline Interpolation to Machine Freeform Contours, Using, by Todd Spath: 51-7
+ Split Main Bearing for the 1/6th-scale Zimmerman Cirrus, by Bob Allen, 65-30
+ Spotfacer for aluminum castings, A simple, Eric Clutton 19-24
+ Spreadsheet, Contour Machining with a; 47-3
+ Spring Winder, 73-4
+ SPRING WINDING - In the Shop Bob Paule P.E. - IN THE SHOP 27-24
+ Spring Winding Mandrel Construction Article By Gerald R. Baxter 34-5
+ Spring Winding The Third Variable - Wire Tension By Don A. Bell 34-6
+ Spring Winding, Wire Tensioner Product Review 34-5
+ Springs, Roderick Jenkins 19-3
+ Springs, valve, 5-8.
+ Square Hole, Stroka-genius, broach, 70-10
+ Squaring up an Irregular Piece of Stock, 73-5
+ SS
+ Stanley, Gordon & Rex: 41-3; 42-3; 43-3; 44-3
+ Stanley, Gordon L. & Rex Home Machine Shop Electronics 49-6, 50-10
+ Starter Clutch Assembly, A by Edward F. Ellison 54-28
+ Starter, Electric: 48-11, 57-28
+ Starters for Model Engines, Recoil: 50
+Starting System, Engine 38-37
+ STATEMENT OF OWNERSHIP, 25-10
+ Steadyrest, Traveling; 43-36
+ Steel marking stamp holder, 7-16
+ Stockton, Thomas R, 16-20
+ Stollery, Derek Two-stroke Engines 54-15
+ Stollery, Derek, 73-3
+ Stollery,Derek A Beginner's Tale 35-5
+Stops for The Headstock, Material 41-29
+ Storage Cabinet By Richard McMahon 58-30
+ STRICTLY I.C. Miniature I.C. Engine Awards Contest 1993 31-7
+ STRICTLY I.C.'s 1993 NAME EXHIBITION I.C. ENGINE AWARDS, Robert A. Washburn 29-11
+ Striegler, Bert: 43-13; 57-7
+ Stroka-genius Square Hole Broach, by Ron Chernich & Roger Schroeder, 70-9
+ STROMBERG CARBURETOR IN MINIATURE, by Root/Washburn: 29-3; 30-3; 31-3, 32-3, 33-3
+ STUCK, Ed, Center Finding in a 4- Chuck-TIP SHEET Tap Holder-IP SHEET 26-7
+ Studs, 12-10
+ SUBSCRIBER'S ADVERTISING SECTION, 25-35; 26-35; 27-35; 28-35; 29-31; 30-39
+ Supercharge Your Two-stroke Engine 34-16
+Supercharging - W-W-W-H, A Story About, by Robert Havemann 42-26
+ Supercharging of Model Engines, 47-9
+Supercharging, A Story About 42-26
+ supplies sources, Model engine building 2-9.
+ supplies, Model building 3-20.
+ Surface Grinder, The - a useful adjunct in the home shop Pilgrim's Progress 52-14
+ Surface Grinder, The By Bruce B. Satra 52-14
+Switzer, Gene 39-3, 40-10, 41-10
+ Szostek, Henry P.; 45-27
+ Tailstock Barrel Wiper 40-29
+ TAILSTOCK TAP HOLDER, A very easy, 28-5
+ Tap Drill Sizes, 47-30
+ TAP HOLDER, Ed Stuck- TIP SHEET 28-5
+ Tap Storage Holders In The Shop 49-11
+ Tappets for The Morton M5 , Roller, by Bruce B. Satra: 60-11 By
+ Tappets, Roller, for the Morton M5 60-11
+ Tapping Fixture, 73-10
+ Tapping Notes by Karl Young 54-30
+ Tapping Problems 32-28
+ Tapping Problems, 48-6
+ TAPPING SMALL HOLES, Barrie Boulter - TIP SHEET 28-7
+ Tapping Tool, Drill Press, 73-9
+ Tapping Using Small Sizes of Taps, by David Jackson, 68-35
+ Tapping, 68-10
+ Taps, tapping using small sizes of, 68-35
+TDC, Fixture for Finding on Pistons 31-38
+ TDC, setting piston at, 6-21.
+ TDC, setting points at, 6-22.
+ temperatures, Judging, by Roger J. Schroeder -Winged Motors 16-24
+ Test bench, the, 9-3; 10-3
+ Test Stand; 48-4
+ Testing i.c. Engines, 9-3; 10-3
+Tether Car Racing Still Exists By Robert A. Washburn Reported by Peter Richer 33-38
+ The 1994 N.A.M.E.S. Exhibition 39-27
+ The answer, Why does a radial need fire every-other cylinder? 15-7
+ THE INTERNATIONAL GUILD OF MODEL ENGINEERS, 26-7
+THE LANZ GLÜHKOPFMOTOR By Leonard Woods 39-7
+ THE OBJECTIVE OF RADIO CONTROLLED PRE-1930 ENGINE DESIGNS IN COMPETITION
+ TEXACO, John Quigley 20-9
+ THE WAY TO CHROME PLATING IN TEN EASY STEPS How-to series E.D.Cox
+ Part 4 - conclusion, 25-3
+ The way to chrome plating in ten easy steps, by E.D. Cox: 22-3; 23-3; 24-3
+Thomas, Robert G. File Maintenance 32-37
+ Thompson ,(The late) John V. Scorpion V8, by John V. Thompson; Part 1 66-3
+ Thompson, (the late), John V., 66-3
+ Thompson, John V.; 48-4
+ Thompson, John, V., (the late) 67-3, 68-8; 69-3; 70-3; 71-9
+ Thoughts on the original I.C. engine, 73-15
+ Threaded connections, 7-8
+ Threaded connections, in the shop, 7-8
+ Threaded holes, 4-6.
+ Threads comparison chart--UNF,UNC,BA & ISOmetric, 5-19.
+ Threads, Cutting on a Lathe By Raymond T. Hecker 49-12
+ Three-cylinder, W-type Radial, No.81-3, No.82-13, No.83-33, No.84-11
+ Throop, Lewis 55-14
+ Throop, Lewis, 65-3
+ Throop, Lewis, 73-17
+ Throop, Lewis, Cylinder Bolt Former 54-29
+ Tip sheet - Another Insulator for Spark Plugs, Jan-Olof Andersson 19-22
+ Tip Sheet 54-28 thru 34
+ Tip sheet, - A Simple Spotfacer for Al. Castings, Eric Clutton 19-24
+ Tip sheet, - Another Way to Center a Crankshaft Blank, Barry Emms 19-26
+ Tip sheet, - Boring & Finishing Thin-wall Sleeves, Ken Lloyd 19-23
+ Tip sheet, - Finishing Piston Rings, Bruce Abell 19-26
+ Tip sheet, - Glow Plug Driver, Dariano Rossello 19-25
+ Tip sheet, - Knurling for Propeller Drivers, David Owen 19-24
+ Tip sheet, 6-15.
+ Tip Sheet, 68-29
+ Tip sheet, 7-10; 9-15; 10,-10; 12-16
+ Tip Sheet, 73-3
+Tip sheet, A Cut-off Tool - Jim Lewis 32-38
+ Tip sheet, A CUTTER FOR NARROW RING GROOVES, Russel Watson-Will 28-7
+ Tip sheet, A VERY EASY TAILSTOCK TAP HOLDER, Leonard Woods 28-5
+Tip sheet, Breaker Points The Enexpensive Way - Alan J. Bosher 34-34
+ Tip sheet, -Cutting Alumina Tubing, Harmon Leslie, 17-31
+ Tip sheet, DRILLING & TAPPING HOLES, Harmon Leslie 28, pp.6
+ Tip sheet, -Drive Washers, Charles A. Bruce 16-21
+Tip sheet, File Maintenance - Robert G. Thomas 32-37
+Tip sheet, Greasy & Oily Cleaning - Ivan Sparks 34-33
+Tip sheet, Lathe Tool Post - Lee Root 35-27
+ Tip sheet, -Layout of Crankshaft, D. Boote 16-22
+Tip sheet, Of Pigtails & Cream - Ivan Sparks 34-34
+ Tip sheet, PHOTO ELECTRONICIGAPACITOR DISCHARGE IGNITION, Kenneth H. Smith 26-6
+Tip sheet, Spinner for Sodas - Ivan Sparks 34-34
+Tip sheet, Still a Better Spark Plug - Ed Ellison 32-37
+ Tip sheet, TAP HOLDER, Ed Stuck 26-7
+ Tip sheet, TAPPING SMALL HOLES. Barrie Boulter 28-7
+ Tip sheet,Center Finding in a 4-Jaw Chuck, 26-7
+ Tip sheet,Turning Crank Throws on Crankshafts & Fixture for Finding TDC - Kevin Barker 32-38
+ Tip sheet,-Valve Keepers, Richard Smith, 16-21
+ Tip Sheet: A Better Way, By Bob Eggleston; 45-30
+ Tip Sheet: A Bit of Wisdom, By Robert G. Jorgensen; 45-28
+ Tip Sheet: A General Design of a Carburetor, by Kirk M. Lee; 45-10
+ Tip Sheet: A Unique-type (adapted manufactured) Mandrel, By Alan J. Bosher; 45-11
+ Tip Sheet: A Wobbler, By Mark Doyle; 45-28
+ Tip Sheet: An Accessory Vise for Your High-speed Tool, By Bob Shores; 45-9
+ Tip Sheet: Another Form of Pot Chuck, By Michael D. Garber; 45-26
+ Tip Sheet: Another Tubing Bender, by David Black; 45-31
+ Tip Sheet: Looking for a Better Cut-off Tool? By Bob Ellison; 45-29
+ Tip Sheet: Miscellaneous, By Lloyd Ressler; 45-32
+ Tip Sheet: Other Uses for the Travel Dial Indicator, By Warren Tymchak; 48-31
+ Tip Sheet: Removing Broken Drills and Taps in Aluminum and Other Non-ferrous Metals, by Howell; 45-
+ 31
+ Tip Sheet: Take the Pain Out of Piston Rings, by Robert A. Dunn; 45-10
+ Tip Sheet: That Hand-held Grinder is Useful After Death, by Ronald Colonna; 45-27
+ Tip Sheet: Turning Crankshafts Using a 3 jaw, By Fred Anderson; 45-28
+ Tip Sheet: Working Without a Miller, By Phillip J. Powell; 45-29
+ Tip Sheet: Would You Believe? By Henry P. Szostek; 45-27
+ Tips from an Old-time Machinist, by Colin Browning, 68-30
+ TIPS ON ENGINE DESIGN BALANCING A SINGLE-CYLINDER ENGINE, Neil Kaminar 28-9
+ Tochtrop, J.M. The Atkinson Cycle, Farm-type Engine 52-35
+ Tomlinson, Eric, 72-3
+ Tomlinson, Eric, 73-11; 74-15; 75-16; 76-3;
+ Tool & Cutter Grinder, The Quorn; 48-12
+ Tool Holder, A Simple Lathe:74-29
+ Tool post and holders, A lathe, 5-10; 6-18.
+ tool Post, , 5-10; 6-18.
+ Totally Opposed, Design Forum, 78-3
+ Travel Dial Indicator, Other Uses for; 48-31
+Trimble, George 39-9
+ Trimble, George S. Little Joe: 15-3; 16-6; 17-l l
+ Trimble, George, 70-27
+ Trimble, George, 7-3; 8-3; 9-20
+ Trip Report, Where Miniature Engines Gather, 74-5
+ Troubleshooting two-stroke ignition systems, 5-7.
+ True-up, A, by Oscar Ortiz 58-32
+ TT
+ Tubing Bender, 45-31
+ TUNING FOR POWER-DESIGN IDEAS, 27, Richard Condon - DESIGN IDEAS 26
+ Turbine Engine, 44-27
+ Turbine Engineering Handbook, Gas John W. Sawyer - Properties, Concepts, and Definitions 52
+ Turbine Engineering Handbook, Gas John W. Sawyer Noise 54
+ Turbojet engine, A little history of the, byTom Richards: 17-3
+Turbojet Review By Ken Knaell 36-30
+ Turbojet, A Model, Thermodynamic Design Point Cycle Program By Mike Early 50-3
+ turbojet, The miniature S-100 gas Brian Seegers: 14-9; 15-10
+ Turbojet, The Miniature S-100, Bryan J. Seegers 14-9
+ Turbojet, Update of the ...Thermodynamic Design Point Cycle Program, by Mike Early, 64-6
+ Turning crankshafts, an improved method, 3-15.
+ Turning ferrous metals on a lathe, 68-36
+ Turning fixture, pistons, 6-3.
+ Turret and Box Tool for Myford S7, By Arthur A Leak 54-3
+ Twin, The Ressler, Lloyd Ressler 13-10
+ Twin-Cam Twin, by Edward F. Ellison, 62-32
+ Twin-cylinder, In-line Engine, The RC-22, Part 1; 44-14: Part 2, 45-13; Part 3, 46-16
+ Twist Drills, Sharpening, 73-6
+ Two-cycle engine, How to Design your own: 3-13; 4-8; 5-13; 6-10; 7-20; 8-23
+ Two-cylinder in line, 1 cover.
+ TWO-STROKE CYCLE ENGINE PORTING, Roger J. Schroeder- WINGED MOTORS 79-25
+ two-stroke cycle engine, simple but so complex, The 1-17.
+ Two-stroke engine design, Advanced topics in: 4-19
+ Two-stroke Engine, Building a Modern, by Tom Hickox: 64-3
+ two-stroke engine, How to design your own 3-13; 4-8; 5-13; 6-10.
+ Two-stroke Engine, improvement to the Forum 01 54-13
+ Two-stroke Engines, Filling the Crankcase By Derek Stollery 54-15
+ Two-stroke ignition systems, troubleshooting, 5-7.
+ Two-stroke Radials, By William Bond, 47-12
+ Two-stroke, simple but complex, 1-17.
+ Tyler, Maurice 58-32
+ Tyler, Nicholas S.; 48-34
+ Tymchak, Warren; 48-31
+ Tytlandsvick, Kelly, 69-36
+ TYTLANDSVOC, Kelly, Estevan Model Gas 6 Steam Show 16-30
+ Ungerman, W.J., 73-3
+ Update of the Turbojet Thermodynamic Design Point Cycle Program, by Mike Early, 64-6
+ Upshur Spark Plug, The by Hamilton Upshur, 68-36
+ Upshur Vertical Single, by Hamilton Upshur ,The: 63-6; 64-12; 65-6; 66-11
+ Upshur, Hamilton (Bits & Pieces) A Fabricated Cylinder Block: 49-13
+ Upshur, Hamilton (Bits & Pieces) A Simple Compensating Carburetor: 55-11
+ Upshur, Hamilton (Bits & Pieces) Engine Lubrication: 61-30; 62-9
+ Upshur, Hamilton (Bits & Pieces): 34-27; 35-10
+ Upshur, Hamilton 55-11
+ Upshur, Hamilton A Fabricated Cylinder Block 49-13
+ Upshur, Hamilton B, 8-13; 9-11; 10-13, 11-11
+Upshur, Hamilton Bits & Pieces: 34-7; 35-10 (2)
+ Upshur, Hamilton No.79-11, No.80-5
+ Upshur, Hamilton, 61-30, 62-9, 63-6, 64-12, 65-6, 66-11
+ Upshur, Hamilton, 68-36
+ Upshur, Hamilton, 76-9; 77-3; 78-14
+ UPSHUR, Hamilton, Repair of Crankshaft Journals 26-31
+ Useful Direct Quote, A, from the book: Design and Timing of Competition Engines, by Philip H. Smith; 48-
+ 35
+ Useful Direct Quotes 51-34, 52-34, 54-14
+ Useful direct quotes, 19-27; 24-6
+ Useful Direct Quotes, 61-29, 64-29, 65-26
+ Useful direct quotes, Deskpot Dynos, By Larry Atherton 56-33
+ Useful Direct Quotes, Rolls Royce Aero Engines 74-34
+ Useful direct quotes: 26-.6 3 pg32; 28-34; 29-30
+ Useful direct quotes: from Automobile Engineer's Reference Book 40-34
+ Useful direct quotes: from Gas Engine Manual 39-4
+ Useful direct quotes: from Overhaul Manual Twin Wasp 42-14
+ Useful direct quotes: -Otto Cycle, 16-5
+ Useful direct quotes: -Radials Firing Order, 14-31
+ Useful direct quotes: Why Multi-cylinder Motorcycle Engines? By W. Krautter 58-25
+Useful direct quotes:31-34
+ Users Report, Grizzly 12" X 36" Lathe; 47-35
+ Using a 5” sine bar; Knurling-a black art, by Oscar Ortiz, 67-11; Tapping, 68-10
+ Using a discarded magneto for a spark coil, 3-8.
+ Using and producing punch dies, 5-8.
+ Using Spline Interpolation to Machine Freeform Contours By Todd M. Spath 51-7
+ Using the Carter Electronic Ignition, by Paul Bennett, 68-29; 68-29
+ UU
+ V8, Challenger 56-5
+ V8, Scorpion, by John V. Thompson: 66-3; 67-3; 68-8; 69-3; 70-3
+ Vacuum Casting, Permanent Steel; 43-11
+ Valve seals, Bruce B. Satra - Pilgrim's Progress 23-29
+ Valve seat design, 7-16
+ Valve seat lapping tool, 7-16
+ Valve springs, 5-8.
+ Valves No.83-36
+ valves, Making small needle 12-16
+ Valves, producing those pesky little, 1-3.
+ Variable Compression Head for the Drone Diesel, MK II, Building a Simple, by Bert Striegler 57-7
+Vertical Engine, Instruction for Building a Miniature George D. Britnell 33-8
+ Vertical pump engine, photo opp, 8-11
+ Vertical Single, by Hamilton Upshur: 63-6; 64-12; 65-6; 66-11
+ Vibration Isolation, Engine 37-7
+ Viper Twins ,The Saga of the, by William Bond: 52-10
+ Vise In The Shop, Small Parts 50-37
+ Vise, A Small Supplementary, by Pieter Dekker, 68-25
+ Vise, Accessory; 45-9
+ Vise, An Island Post , by Albert W. Smith, 47-11
+ Vise, Small Parts 50-37
+ VOLUMETRIC EFFICIENCY STATEMENT, Useful Direct Quotes 29-30
+ VV
+ Wall 30cc four-cylinder in line, 4-24.
+ Wall, Elmer A, the Father of us All? 60-35
+ Wall, Elmer A.,The Father of US All? By Robert (Dr Bob) Kradjian MD 60-35
+ Warren, E.B., 12-16
+ WARREN, John R., Infrared Ignition Control for Models, 29-22
+ Washburn, Robert 37-3,38-3,40-6, 41-11, 42-15
+ Washburn, Robert A (RAW) 60-31
+Washburn, Robert A A Shop-made, Shop-size Electric Discharge Machine (EDM) 34-3, 35-3, & 36-3
+Washburn, Robert A A Stromberg Miniature Carburetor Part 5 – conclusion 33-3
+Washburn, Robert A Tether Car Racing Still Exists 33-38
+Washburn, Robert A The 1993 Midlands Model Engineering Exhibition 36-27
+ Washburn, Robert A The Electric Discharge Machine EDM One More Time 53
+ Washburn, Robert A The Electric Discharge Machine The Maxsie-T Seven 51
+ Washburn, Robert A The Electric Discharge Machine The Mechanical Aspects 50
+ Washburn, Robert A The Electric Discharge Machine The PC Board Aspects 51
+ Washburn, Robert A, Strictly IC.'s 1993 NAME Exhibition I.C. Engine Awards 29-11
+Washburn, Robert A. 50-14, 51-11, 51-28, 53-6
+Washburn, Robert A. A Quarter-scale Offenhauser article 31-3
+ Washburn, Robert A., 61-12, 62-3, 63-3, 64-24, 65-27, 65-34, 66-31, 66-33
+ Washburn, Robert A., 74-5; 76-34; 78-24 & 78-26
+Washburn, Robert A.; 47-26; 48-3; 48-14
+Washburn, Robert No.80-30
+Washburn, Robert, 67-29; 68-27; 69-12; 69-30; 70-30; 72-33
+WATSON-WILL, Russell A Cutter for Narrow Ring Grooves - TIP SHEET 28-7
+Weightman, Lionel F. Name Plates Using Circuit Board Type Manufacturing Processes: 13-14; 14-24; 15-
+25 (1-3)
+Weightrnan, Lionel F. 40-8
+Welder, A Light-duty Spot, by Todd Spath 60-7
+Welder, Percussion 43-3, 44-3
+Welding Tips, Arc: 80-12
+What in the world's new? - Unique cam drive mechanism - Jan-Olof Andersson, 22-5
+What In The World's New? 1-5; 2-13; 3-8; 4-6; 6-23.
+What in the World's New? 28-34
+What in the world's new? 8-11; 10-5
+What in the World's New? Replica Engines Spark Plugs 39-4
+What in the World's New? Spark Plugs; 44-35
+What in the world's new? The Australian Mate, 14-28
+What In The World's New?, Australian Mate, by Robert A. Washburn - 14-28
+What is it? No.80-10
+When Was the Last Time? 4417
+Which Side is Up? By J.E. Kemble 55-32
+White, Graham, 75-29
+Whittle Robin, 64-30, 65-28
+Whittle Robin, A Custom Jeweler and Watchmaker Tries His Hand at a, by Robert Eaton, 64-30
+Whittle, P. E. (Eric): 41-33;61-3
+Whittle, P.E. (Eric) L. 57-3, 58-14, 59-10, 60-33
+Whittle, P.E. (Eric) L. Easy & Accurate Gapping of Miniature Piston Rings 35-28
+Whittle, P.E.L (Eric) Robin construction series: 18-11; 19-12; 22-13 (1-3)
+Whittle, P.E.L. 1/6th-scale De Havilland Cirrus Mk.1 49-3, 50-30, 51-15, 52-25, 53-7
+Williams, Bill, 6-9.
+Winch, Brian, 71-27; 71-29
+Winder, Spring, 73-4
+Wobbler, A; 45-28
+Wood, Reg., 2-10; 4-13; 6-12 & 23; 12-21
+Woods, Leonard (Armchair Machinist) 82-29
+Woods, Leonard (Armchair Machinist) Bevel Gears 59-3
+Woods, Leonard (Armchair Machinist) Book Review, Sparks and Flames: 67-13;
+Woods, Leonard (Armchair Machinist) Ferrous Materials 58-9
+Woods, Leonard (Armchair Machinist) More on Big Ends on Radial Engines: 62-30
+Woods, Leonard (Armchair Machinist) Odds & Ends: 63-31; 64-9; 65-24
+Woods, Leonard (Armchair Machinist) On Optimizing Big Ends of Radial Engines 57-9
+Woods, Leonard (Armchair Machinist) Some Thoughts on the Design of Compression Ignition Miniature
+Engines, 66-15
+Woods, Leonard (Armchair Machinist) The Salmson Radial Engine: 61-25
+Woods, Leonard Cutting Gears on a Shaper 54-6
+Woods, Leonard, A Very Easy Tailstock Tap Holder, 28-5 - TIP SHEET
+Woods, Leonard, Hexi and Dixie, 27-3
+Woods, Leonard: 39-7; 56-14; 57-9; 58-9; 59-3; 61-25; 62-30; 63-31; 64-9; 65-24; 66-15; 67-13; 68-15;
+69-8; 70-7; 70-11; 71-32; 72-11; 73-15; 74-9; 75-7;76-5; 77-28; 78-23; 79-6; 80-13; 81-10; 82-29
+Working Towards Excellence By Harold O. Beckett 59-23
+Workshop Hints 57-16
+World Encyclopaedia of Aero Engines 40-9
+Worn, Self-centering 3 jaw Chucks, by Manfred Gulke, 68-34
+Wright J5 (whirlwind) engine, The miniature, by Carlsson/0lsryd: 24-9; 25-11; 26-13; 27-13; 28-12; 29-13
+WW
+Wyvern, cover photo 9
+XX
+Young, Jr., Carl, 74-32
+Young, Karl Jr., 69-11
+Young, Karl, Tapping Notes 54-30
+YY
+Zimmerman, Merritt A., In Memoriam, 67-8
+ZZ
+
